@@ -1,0 +1,813 @@
+Inicio de sesi?n.            El usuario admin inicio sesion corectamente.                        Tlanchinol                        
+Inicio de sesi?n.            El usuario admin inicio sesion corectamente.            admin            Tlanchinol            08/01/2014            
+Salida del programa.            El usuario admin dej? de usar el sistema el dia 08/01/2014a las 03:45:45 p.m..                        Tlanchinol                        
+Inicio de sesi?n.            El usuario frank inicio sesion corectamente.            frank            Chapulhuacan            08/01/2014            
+Salida del programa.            El usuario frank dej? de usar el sistema el dia 08/01/2014a las 03:46:09 p.m..                        Chapulhuacan                        
+Inicio de sesi?n.            El usuario admin inicio sesion corectamente.            admin            Tlanchinol            08/01/2014            
+Salida del programa.            El usuario admin dej? de usar el sistema el dia 08/01/2014a las 03:48:53 p.m..            admin            Tlanchinol            08/01/2014            
+Inicio de sesi?n.            El usuario admin inicio sesion corectamente.            admin            Tlanchinol            08/01/2014            
+Inicio de sesi?n.            El usuario frank inicio sesion corectamente.            frank            Chapulhuacan            08/01/2014            
+Alta de equipo en garantia.            El usuario frank ha dado de alta un equipo en garantia el dia 08/01/2014 a las 04:10:20 p.m.                        Chapulhuacan                        
+Inicio de sesi?n.            El usuario admin inicio sesion corectamente.            admin            Tlanchinol            08/01/2014            
+Alta de equipo en garantia.            El usuario admin ha dado de alta un equipo en garantia el dia 08/01/2014 a las 04:14:50 p.m.            admin            Tlanchinol            08/01/2014            
+Salida del programa.            El usuario admin dej? de usar el sistema el dia 08/01/2014a las 04:22:38 p.m..            admin            Tlanchinol            08/01/2014            
+Inicio de sesi?n.            El usuario admin inicio sesion corectamente.            admin            Tlanchinol            08/01/2014            
+Alta de equipo en reparacion.            El usuario admin ha dado de alta un equipo en reparacion el dia 08/01/2014 a las 04:24:16 p.m.            admin            Tlanchinol            08/01/2014            
+Inicio de sesi?n.            El usuario christian inicio sesion corectamente.            christian            Chapulhuacan            08/01/2014            
+Venta de equipo.            El usuario christian ha vendido un equipo el dia 08/01/2014 a las 07:19:46 p.m.            christian            Chapulhuacan            08/01/2014            
+Venta de equipo.            El usuario christian ha vendido un equipo el dia 08/01/2014 a las 07:21:21 p.m.            christian            Chapulhuacan            08/01/2014            
+Venta de equipo.            El usuario christian ha vendido un equipo el dia 08/01/2014 a las 07:21:24 p.m.            christian            Chapulhuacan            08/01/2014            
+Inicio de sesi?n.            El usuario admin inicio sesion corectamente.            admin            Tlanchinol            09/01/2014            
+Inicio de sesi?n.            El usuario admin inicio sesion corectamente.            admin            Tlanchinol            09/01/2014            
+Alta de equipo en garantia            El usuario admin ha entregado un equipo en garantia el dia 09/01/2014 a las 02:19:35 p.m.                        Tlanchinol                        
+Alta de equipo en garantia            El usuario admin ha entregado un equipo en garantia el dia 09/01/2014 a las 02:19:40 p.m.                        Tlanchinol                        
+Inicio de sesi?n.            El usuario admin inicio sesion corectamente.            admin            Tlanchinol            09/01/2014            
+Alta de equipo en garantia            El usuario admin ha entregado un equipo en garantia el dia 09/01/2014 a las 02:22:38 p.m.            admin            Tlanchinol            09/01/2014            
+Alta de equipo en garantia            El usuario admin ha entregado un equipo en garantia el dia 09/01/2014 a las 02:22:42 p.m.            admin            Tlanchinol            09/01/2014            
+Salida del programa.            El usuario admin dej? de usar el sistema el dia 09/01/2014a las 02:24:03 p.m..            admin            Tlanchinol            09/01/2014            
+Inicio de sesi?n.            El usuario admin inicio sesion corectamente.            admin            Tlanchinol            09/01/2014            
+Inicio de sesi?n.            El usuario admin inicio sesion corectamente.            admin            Tlanchinol            09/01/2014            
+Salida del programa.            El usuario admin dej? de usar el sistema el dia 09/01/2014a las 03:01:44 p.m..            admin            Tlanchinol            09/01/2014            
+Inicio de sesi?n.            El usuario admin inicio sesion corectamente.            admin            Tlanchinol            09/01/2014            
+Salida del programa.            El usuario admin dej? de usar el sistema el dia 09/01/2014a las 03:03:04 p.m..            admin            Tlanchinol            09/01/2014            
+Inicio de sesi?n.            El usuario frank inicio sesion corectamente.            frank            Chapulhuacan            09/01/2014            
+Salida del programa.            El usuario frank dej? de usar el sistema el dia 09/01/2014a las 03:03:18 p.m..            frank            Chapulhuacan            09/01/2014            
+Inicio de sesi?n.            El usuario bety inicio sesion corectamente.            bety            Tlanchinol            09/01/2014            
+Alta de equipo en garantia            El usuario bety ha entregado un equipo en garantia el dia 09/01/2014 a las 03:03:41 p.m.            bety            Tlanchinol            09/01/2014            
+Alta de equipo en garantia            El usuario bety ha entregado un equipo en garantia el dia 09/01/2014 a las 03:03:55 p.m.            bety            Tlanchinol            09/01/2014            
+Inicio de sesi?n.            El usuario admin inicio sesion corectamente.            admin            Tlanchinol            09/01/2014            
+Inicio de sesi?n.            El usuario admin inicio sesion corectamente.            admin            Tlanchinol            09/01/2014            
+Salida del programa.            El usuario admin dej? de usar el sistema el dia 09/01/2014a las 05:10:02 p.m..            admin            Tlanchinol            09/01/2014            
+Inicio de sesi?n.            El usuario admin inicio sesion corectamente.            admin            Tlanchinol            09/01/2014            
+Salida del programa.            El usuario admin dej? de usar el sistema el dia 09/01/2014a las 05:12:47 p.m..            admin            Tlanchinol            09/01/2014            
+Inicio de sesi?n.            El usuario admin inicio sesion corectamente.            admin            Tlanchinol            09/01/2014            
+Salida del programa.            El usuario admin dej? de usar el sistema el dia 09/01/2014a las 05:13:36 p.m..            admin            Tlanchinol            09/01/2014            
+Inicio de sesi?n.            El usuario admin inicio sesion corectamente.            admin            Tlanchinol            09/01/2014            
+Salida del programa.            El usuario admin dej? de usar el sistema el dia 09/01/2014a las 05:15:11 p.m..            admin            Tlanchinol            09/01/2014            
+Inicio de sesi?n.            El usuario admin inicio sesion corectamente.            admin            Tlanchinol            09/01/2014            
+Inicio de sesi?n.            El usuario admin inicio sesion corectamente.            admin            Tlanchinol            09/01/2014            
+Inicio de sesi?n.            El usuario admin inicio sesion corectamente.            admin            Tlanchinol            09/01/2014            
+Entrega de equipo (reparacion).            El usuario admin ha entregado un equipo en reparacion el dia 09/01/2014 a las 06:23:34 p.m.            admin            Tlanchinol            09/01/2014            
+Inicio de sesi?n.            El usuario admin inicio sesion corectamente.            admin            Tlanchinol            09/01/2014            
+Entrega de equipo (reparacion).            El usuario admin ha entregado un equipo en reparacion el dia 09/01/2014 a las 06:41:14 p.m.            admin            Tlanchinol            09/01/2014            
+Salida del programa.            El usuario admin dej? de usar el sistema el dia 09/01/2014a las 07:19:02 p.m..            admin            Tlanchinol            09/01/2014            
+Inicio de sesi?n.            El usuario admin inicio sesion corectamente.            admin            Tlanchinol            09/01/2014            
+Alta de equipo en garantia.            El usuario admin ha dado de alta un equipo en garantia el dia 09/01/2014 a las 07:56:38 p.m.            admin            Tlanchinol            09/01/2014            
+Alta de equipo en garantia.            El usuario admin ha dado de alta un equipo en garantia el dia 09/01/2014 a las 07:57:30 p.m.            admin            Tlanchinol            09/01/2014            
+Salida del programa.            El usuario admin dej? de usar el sistema el dia 09/01/2014a las 07:58:18 p.m..            admin            Tlanchinol            09/01/2014            
+Inicio de sesi?n.            El usuario frank inicio sesion corectamente.            frank            Chapulhuacan            09/01/2014            
+Salida del programa.            El usuario frank dej? de usar el sistema el dia 09/01/2014a las 07:58:46 p.m..            frank            Chapulhuacan            09/01/2014            
+Inicio de sesi?n.            El usuario bety inicio sesion corectamente.            bety            Tlanchinol            09/01/2014            
+Entrega de equipo (garantia).            El usuario bety ha entregado un equipo en garantia el dia 09/01/2014 a las 07:59:23 p.m.            bety            Tlanchinol            09/01/2014            
+Salida del programa.            El usuario bety dej? de usar el sistema el dia 09/01/2014a las 08:00:59 p.m..            bety            Tlanchinol            09/01/2014            
+Inicio de sesi?n.            El usuario christian inicio sesion corectamente.            christian            Chapulhuacan            09/01/2014            
+Entrega de equipo (reparacion).            El usuario christian ha entregado un equipo en reparacion el dia 09/01/2014 a las 08:01:13 p.m.            christian            Chapulhuacan            09/01/2014            
+Entrega de equipo (reparacion).            El usuario christian ha entregado un equipo en reparacion el dia 09/01/2014 a las 08:01:22 p.m.            christian            Chapulhuacan            09/01/2014            
+Entrega de equipo (reparacion).            El usuario christian ha entregado un equipo en reparacion el dia 09/01/2014 a las 08:01:28 p.m.            christian            Chapulhuacan            09/01/2014            
+Salida del programa.            El usuario christian dej? de usar el sistema el dia 09/01/2014a las 08:03:46 p.m..            christian            Chapulhuacan            09/01/2014            
+Inicio de sesi?n.            El usuario admin inicio sesion corectamente.            admin            Tlanchinol            09/01/2014            
+Salida del programa.            El usuario admin dej? de usar el sistema el dia 09/01/2014a las 10:04:22 p.m..            admin            Tlanchinol            09/01/2014            
+Inicio de sesi?n.            El usuario christian inicio sesion corectamente.            christian            Chapulhuacan            09/01/2014            
+Venta de equipo.            El usuario christian ha vendido un equipo el dia 09/01/2014 a las 10:04:59 p.m.            christian            Chapulhuacan            09/01/2014            
+Salida del programa.            El usuario christian dej? de usar el sistema el dia 09/01/2014a las 10:05:17 p.m..            christian            Chapulhuacan            09/01/2014            
+Inicio de sesi?n.            El usuario admin inicio sesion corectamente.            admin            Tlanchinol            09/01/2014            
+Venta de equipo.            El usuario admin ha vendido un equipo el dia 09/01/2014 a las 10:40:31 p.m.            admin            Tlanchinol            09/01/2014            
+Venta de equipo.            El usuario admin ha vendido un equipo el dia 09/01/2014 a las 10:41:53 p.m.            admin            Tlanchinol            09/01/2014            
+Venta de equipo.            El usuario admin ha vendido un equipo el dia 09/01/2014 a las 10:42:00 p.m.            admin            Tlanchinol            09/01/2014            
+Inicio de sesi?n.            El usuario frank inicio sesion corectamente.            frank            Chapulhuacan            09/01/2014            
+Venta de equipo.            El usuario frank ha vendido un equipo el dia 09/01/2014 a las 10:42:39 p.m.            frank            Chapulhuacan            09/01/2014            
+Venta de equipo.            El usuario frank ha vendido un equipo el dia 09/01/2014 a las 10:42:46 p.m.            frank            Chapulhuacan            09/01/2014            
+Venta de equipo.            El usuario frank ha vendido un equipo el dia 09/01/2014 a las 10:42:53 p.m.            frank            Chapulhuacan            09/01/2014            
+Venta de equipo.            El usuario frank ha vendido un equipo el dia 09/01/2014 a las 10:43:01 p.m.            frank            Chapulhuacan            09/01/2014            
+Venta de equipo.            El usuario frank ha vendido un equipo el dia 09/01/2014 a las 10:43:16 p.m.            frank            Chapulhuacan            09/01/2014            
+Inicio de sesi?n.            El usuario bety inicio sesion corectamente.            bety            Tlanchinol            09/01/2014            
+Venta de equipo.            El usuario bety ha vendido un equipo el dia 09/01/2014 a las 10:51:50 p.m.            bety            Tlanchinol            09/01/2014            
+Venta de equipo.            El usuario bety ha vendido un equipo el dia 09/01/2014 a las 10:51:56 p.m.            bety            Tlanchinol            09/01/2014            
+Venta de equipo.            El usuario bety ha vendido un equipo el dia 09/01/2014 a las 10:52:07 p.m.            bety            Tlanchinol            09/01/2014            
+Salida del programa.            El usuario bety dej? de usar el sistema el dia 09/01/2014a las 10:52:10 p.m..            bety            Tlanchinol            09/01/2014            
+Inicio de sesi?n.            El usuario admin inicio sesion corectamente.            admin            Tlanchinol            09/01/2014            
+Inicio de sesi?n.            El usuario pao inicio sesion corectamente.            pao            Chapulhuacan            09/01/2014            
+Inicio de sesi?n.            El usuario admin inicio sesion corectamente.            admin            Tlanchinol            09/01/2014            
+Inicio de sesi?n.            El usuario admin inicio sesion corectamente.            admin            Tlanchinol            09/01/2014            
+Inicio de sesi?n.            El usuario admin inicio sesion corectamente.            admin            Tlanchinol            09/01/2014            
+Venta de equipo.            El usuario admin ha vendido un equipo el dia 09/01/2014 a las 11:29:21 p.m.            admin            Tlanchinol            09/01/2014            
+Venta de equipo.            El usuario admin ha vendido un equipo el dia 09/01/2014 a las 11:29:24 p.m.            admin            Tlanchinol            09/01/2014            
+Venta de equipo.            El usuario admin ha vendido un equipo el dia 09/01/2014 a las 11:29:26 p.m.            admin            Tlanchinol            09/01/2014            
+Salida del programa.            El usuario admin dej? de usar el sistema el dia 09/01/2014a las 11:32:22 p.m..            admin            Tlanchinol            09/01/2014            
+Inicio de sesi?n.            El usuario frank inicio sesion corectamente.            frank            Chapulhuacan            09/01/2014            
+Alta de equipo en garantia.            El usuario frank ha dado de alta un equipo en garantia el dia 09/01/2014 a las 11:40:48 p.m.            frank            Chapulhuacan            09/01/2014            
+Alta de equipo en garantia.            El usuario frank ha dado de alta un equipo en garantia el dia 09/01/2014 a las 11:47:20 p.m.            frank            Chapulhuacan            09/01/2014            
+Salida del programa.            El usuario frank dej? de usar el sistema el dia 09/01/2014a las 11:52:39 p.m..            frank            Chapulhuacan            09/01/2014            
+Inicio de sesi?n.            El usuario christian inicio sesion corectamente.            christian            Chapulhuacan            09/01/2014            
+Venta de equipo.            El usuario christian ha vendido un equipo el dia 09/01/2014 a las 11:54:16 p.m.            christian            Chapulhuacan            09/01/2014            
+Venta de equipo.            El usuario christian ha vendido un equipo el dia 09/01/2014 a las 11:54:19 p.m.            christian            Chapulhuacan            09/01/2014            
+Venta de equipo.            El usuario christian ha vendido un equipo el dia 09/01/2014 a las 11:54:20 p.m.            christian            Chapulhuacan            09/01/2014            
+Venta de equipo.            El usuario christian ha vendido un equipo el dia 09/01/2014 a las 11:54:22 p.m.            christian            Chapulhuacan            09/01/2014            
+Venta de equipo.            El usuario christian ha vendido un equipo el dia 09/01/2014 a las 11:54:24 p.m.            christian            Chapulhuacan            09/01/2014            
+Venta de equipo.            El usuario christian ha vendido un equipo el dia 09/01/2014 a las 11:54:25 p.m.            christian            Chapulhuacan            09/01/2014            
+Entrega de equipo (garantia).            El usuario christian ha entregado un equipo en garantia el dia 09/01/2014 a las 11:54:34 p.m.            christian            Chapulhuacan            09/01/2014            
+Entrega de equipo (garantia).            El usuario christian ha entregado un equipo en garantia el dia 09/01/2014 a las 11:54:38 p.m.            christian            Chapulhuacan            09/01/2014            
+Entrega de equipo (garantia).            El usuario christian ha entregado un equipo en garantia el dia 09/01/2014 a las 11:54:42 p.m.            christian            Chapulhuacan            09/01/2014            
+Entrega de equipo (reparacion).            El usuario christian ha entregado un equipo en reparacion el dia 09/01/2014 a las 11:54:52 p.m.            christian            Chapulhuacan            09/01/2014            
+Salida del programa.            El usuario christian dej? de usar el sistema el dia 09/01/2014a las 11:54:56 p.m..            christian            Chapulhuacan            09/01/2014            
+Inicio de sesi?n.            El usuario christian inicio sesion corectamente.            christian            Chapulhuacan            09/01/2014            
+Alta de equipo en garantia.            El usuario christian ha dado de alta un equipo en garantia el dia 09/01/2014 a las 11:57:43 p.m.            christian            Chapulhuacan            09/01/2014            
+Inicio de sesi?n.            El usuario pao inicio sesion corectamente.            pao            Chapulhuacan            10/01/2014            
+Salida del programa.            El usuario pao dej? de usar el sistema el dia 10/01/2014a las 01:26:07 a.m..            pao            Chapulhuacan            10/01/2014            
+Inicio de sesi?n.            El usuario admin inicio sesion corectamente.            admin            Tlanchinol            10/01/2014            
+Salida del programa.            El usuario admin dej? de usar el sistema el dia 10/01/2014 a las 01:56:04 a.m.            admin            Tlanchinol            10/01/2014            
+Inicio de sesi?n.            El usuario admin inicio sesion corectamente.            admin            Tlanchinol            10/01/2014            
+Salida del programa.            El usuario admin dej? de usar el sistema el dia 10/01/2014 a las 01:56:13 a.m.            admin            Tlanchinol            10/01/2014            
+Inicio de sesi?n.            El usuario christian inicio sesion corectamente.            christian            Chapulhuacan            10/01/2014            
+Venta de equipo.            El usuario christian ha vendido un equipo el dia 10/01/2014 a las 01:56:35 a.m.            christian            Chapulhuacan            10/01/2014            
+Salida del programa.            El usuario christian dej? de usar el sistema el dia 10/01/2014 a las 01:56:41 a.m.            christian            Chapulhuacan            10/01/2014            
+Inicio de sesi?n.            El usuario admin inicio sesion corectamente.            admin            Tlanchinol            10/01/2014            
+Venta de equipo.            El usuario admin ha vendido un equipo el dia 10/01/2014 a las 02:43:06 a.m.            admin            Tlanchinol            10/01/2014            
+Venta de equipo.            El usuario admin ha vendido un equipo el dia 10/01/2014 a las 02:43:12 a.m.            admin            Tlanchinol            10/01/2014            
+Venta de equipo.            El usuario admin ha vendido un equipo el dia 10/01/2014 a las 02:43:14 a.m.            admin            Tlanchinol            10/01/2014            
+Venta de equipo.            El usuario admin ha vendido un equipo el dia 10/01/2014 a las 02:43:17 a.m.            admin            Tlanchinol            10/01/2014            
+Venta de equipo.            El usuario admin ha vendido un equipo el dia 10/01/2014 a las 02:49:03 a.m.            admin            Tlanchinol            10/01/2014            
+Venta de equipo.            El usuario admin ha vendido un equipo el dia 10/01/2014 a las 02:49:11 a.m.            admin            Tlanchinol            10/01/2014            
+Salida del programa.            El usuario admin dej? de usar el sistema el dia 10/01/2014 a las 02:49:18 a.m.            admin            Tlanchinol            10/01/2014            
+Inicio de sesi?n.            El usuario admin inicio sesion corectamente.            admin            Tlanchinol            10/01/2014            
+Entrega de equipo (reparacion).            El usuario admin ha entregado un equipo en reparacion el dia 10/01/2014 a las 12:41:57 p.m.            admin            Tlanchinol            10/01/2014            
+Entrega de equipo (reparacion).            El usuario admin ha entregado un equipo en reparacion el dia 10/01/2014 a las 12:42:07 p.m.            admin            Tlanchinol            10/01/2014            
+Venta de equipo.            El usuario admin ha vendido un equipo el dia 10/01/2014 a las 12:42:24 p.m.            admin            Tlanchinol            10/01/2014            
+Salida del programa.            El usuario admin dej? de usar el sistema el dia 10/01/2014 a las 12:42:31 p.m.            admin            Tlanchinol            10/01/2014            
+Inicio de sesi?n.            El usuario admin inicio sesion corectamente.            admin            Tlanchinol            10/01/2014            
+Venta de equipo.            El usuario admin ha vendido un equipo el dia 10/01/2014 a las 12:45:12 p.m.            admin            Tlanchinol            10/01/2014            
+Venta de equipo.            El usuario admin ha vendido un equipo el dia 10/01/2014 a las 12:45:15 p.m.            admin            Tlanchinol            10/01/2014            
+Venta de equipo.            El usuario admin ha vendido un equipo el dia 10/01/2014 a las 12:45:16 p.m.            admin            Tlanchinol            10/01/2014            
+Venta de equipo.            El usuario admin ha vendido un equipo el dia 10/01/2014 a las 12:45:19 p.m.            admin            Tlanchinol            10/01/2014            
+Venta de equipo.            El usuario admin ha vendido un equipo el dia 10/01/2014 a las 12:45:30 p.m.            admin            Tlanchinol            10/01/2014            
+Alta de equipo en garantia.            El usuario admin ha dado de alta un equipo en garantia el dia 10/01/2014 a las 12:47:03 p.m.            admin            Tlanchinol            10/01/2014            
+Inicio de sesi?n.            El usuario admin inicio sesion corectamente.            admin            Tlanchinol            10/01/2014            
+Entrega de equipo (garantia).            El usuario admin ha entregado un equipo en garantia el dia 10/01/2014 a las 12:52:59 p.m.            admin            Tlanchinol            10/01/2014            
+Entrega de equipo (garantia).            El usuario admin ha entregado un equipo en garantia el dia 10/01/2014 a las 12:53:05 p.m.            admin            Tlanchinol            10/01/2014            
+Alta de equipo en garantia.            El usuario admin ha dado de alta un equipo en garantia el dia 10/01/2014 a las 12:55:57 p.m.            admin            Tlanchinol            10/01/2014            
+Entrega de equipo (reparacion).            El usuario admin ha entregado un equipo en reparacion el dia 10/01/2014 a las 12:59:17 p.m.            admin            Tlanchinol            10/01/2014            
+Entrega de equipo (reparacion).            El usuario admin ha entregado un equipo en reparacion el dia 10/01/2014 a las 12:59:23 p.m.            admin            Tlanchinol            10/01/2014            
+Entrega de equipo (reparacion).            El usuario admin ha entregado un equipo en reparacion el dia 10/01/2014 a las 12:59:27 p.m.            admin            Tlanchinol            10/01/2014            
+Entrega de equipo (reparacion).            El usuario admin ha entregado un equipo en reparacion el dia 10/01/2014 a las 12:59:45 p.m.            admin            Tlanchinol            10/01/2014            
+Venta de equipo.            El usuario admin ha vendido un equipo el dia 10/01/2014 a las 01:11:22 p.m.            admin            Tlanchinol            10/01/2014            
+Venta de equipo.            El usuario admin ha vendido un equipo el dia 10/01/2014 a las 01:11:25 p.m.            admin            Tlanchinol            10/01/2014            
+Salida del programa.            El usuario admin dej? de usar el sistema el dia 10/01/2014 a las 01:11:33 p.m.            admin            Tlanchinol            10/01/2014            
+Inicio de sesi?n.            El usuario christian inicio sesion corectamente.            christian            Chapulhuacan            13/01/2014            
+Salida del programa.            El usuario christian dej? de usar el sistema el dia 13/01/2014 a las 11:31:58 a.m.            christian            Chapulhuacan            13/01/2014            
+Inicio de sesi?n.            El usuario bety inicio sesion corectamente.            bety            Tlanchinol            13/01/2014            
+Salida del programa.            El usuario bety dej? de usar el sistema el dia 13/01/2014 a las 11:32:53 a.m.            bety            Tlanchinol            13/01/2014            
+Inicio de sesi?n.            El usuario admin inicio sesion corectamente.            admin            Tlanchinol            14/01/2014            
+Salida del programa.            El usuario admin dej? de usar el sistema el dia 14/01/2014 a las 03:20:10 p. m.            admin            Tlanchinol            14/01/2014            
+Inicio de sesi?n.            El usuario admin inicio sesion corectamente.            admin            Tlanchinol            14/01/2014            
+Entrega de equipo (garantia).            El usuario admin ha entregado un equipo en garantia el dia 14/01/2014 a las 03:21:08 p. m.            admin            Tlanchinol            14/01/2014            
+Entrega de equipo (garantia).            El usuario admin ha entregado un equipo en garantia el dia 14/01/2014 a las 04:07:04 p. m.            admin            Tlanchinol            14/01/2014            
+Salida del programa.            El usuario admin dej? de usar el sistema el dia 14/01/2014 a las 04:13:43 p. m.            admin            Tlanchinol            14/01/2014            
+Inicio de sesi?n.            El usuario admin inicio sesion corectamente.            admin            Tlanchinol            14/01/2014            
+Salida del programa.            El usuario admin dej? de usar el sistema el dia 14/01/2014 a las 06:09:15 p. m.            admin            Tlanchinol            14/01/2014            
+Inicio de sesi?n.            El usuario admin inicio sesion corectamente.            admin            Tlanchinol            14/01/2014            
+Salida del programa.            El usuario admin dej? de usar el sistema el dia 14/01/2014 a las 06:10:14 p. m.            admin            Tlanchinol            14/01/2014            
+Inicio de sesi?n.            El usuario admin inicio sesion corectamente.            admin            Tlanchinol            14/01/2014            
+Salida del programa.            El usuario admin dej? de usar el sistema el dia 14/01/2014 a las 06:33:41 p. m.            admin            Tlanchinol            14/01/2014            
+Inicio de sesi?n.            El usuario admin inicio sesion corectamente.            admin            Tlanchinol            14/01/2014            
+Salida del programa.            El usuario admin dej? de usar el sistema el dia 14/01/2014 a las 06:34:52 p. m.            admin            Tlanchinol            14/01/2014            
+Inicio de sesi?n.            El usuario admin inicio sesion corectamente.            admin            Tlanchinol            14/01/2014            
+Salida del programa.            El usuario admin dej? de usar el sistema el dia 14/01/2014 a las 07:01:49 p. m.            admin            Tlanchinol            14/01/2014            
+Inicio de sesi?n.            El usuario admin inicio sesion corectamente.            admin            Tlanchinol            14/01/2014            
+Salida del programa.            El usuario admin dej? de usar el sistema el dia 14/01/2014 a las 10:54:03 p. m.            admin            Tlanchinol            14/01/2014            
+Inicio de sesi?n.            El usuario admin inicio sesion corectamente.            admin            Tlanchinol            14/01/2014            
+Entrega de equipo (garantia).            El usuario admin ha entregado un equipo en garantia el dia 14/01/2014 a las 11:00:09 p. m.            admin            Tlanchinol            14/01/2014            
+Entrega de equipo (garantia).            El usuario admin ha entregado un equipo en garantia el dia 14/01/2014 a las 11:00:14 p. m.            admin            Tlanchinol            14/01/2014            
+Salida del programa.            El usuario admin dej? de usar el sistema el dia 14/01/2014 a las 11:00:18 p. m.            admin            Tlanchinol            14/01/2014            
+Inicio de sesi?n.            El usuario admin inicio sesion corectamente.            admin            Tlanchinol            14/01/2014            
+Entrega de equipo (garantia).            El usuario admin ha entregado un equipo en garantia el dia 14/01/2014 a las 11:01:48 p. m.            admin            Tlanchinol            14/01/2014            
+Entrega de equipo (garantia).            El usuario admin ha entregado un equipo en garantia el dia 14/01/2014 a las 11:01:52 p. m.            admin            Tlanchinol            14/01/2014            
+Entrega de equipo (garantia).            El usuario admin ha entregado un equipo en garantia el dia 14/01/2014 a las 11:01:54 p. m.            admin            Tlanchinol            14/01/2014            
+Entrega de equipo (garantia).            El usuario admin ha entregado un equipo en garantia el dia 14/01/2014 a las 11:31:02 p. m.            admin            Tlanchinol            14/01/2014            
+Salida del programa.            El usuario admin dej? de usar el sistema el dia 14/01/2014 a las 11:42:22 p. m.            admin            Tlanchinol            14/01/2014            
+Inicio de sesi?n.            El usuario admin inicio sesion corectamente.            admin            Tlanchinol            14/01/2014            
+Alta de equipo en garantia.            El usuario admin ha dado de alta un equipo en garantia el dia 14/01/2014 a las 11:46:36 p. m.            admin            Tlanchinol            14/01/2014            
+Entrega de equipo (garantia).            El usuario admin ha entregado un equipo en garantia el dia 14/01/2014 a las 11:49:21 p. m.            admin            Tlanchinol            14/01/2014            
+Alta de equipo en garantia.            El usuario admin ha dado de alta un equipo en garantia el dia 14/01/2014 a las 11:49:23 p. m.            admin            Tlanchinol            14/01/2014            
+Alta de equipo en garantia.            El usuario admin ha dado de alta un equipo en garantia el dia 14/01/2014 a las 11:51:19 p. m.            admin            Tlanchinol            14/01/2014            
+Inicio de sesi?n.            El usuario admin inicio sesion corectamente.            admin            Tlanchinol            14/01/2014            
+Salida del programa.            El usuario admin dej? de usar el sistema el dia 14/01/2014 a las 11:54:12 p. m.            admin            Tlanchinol            14/01/2014            
+Inicio de sesi?n.            El usuario admin inicio sesion corectamente.            admin            Tlanchinol            14/01/2014            
+Inicio de sesi?n.            El usuario admin inicio sesion corectamente.            admin            Tlanchinol            15/01/2014            
+Alta de equipo en garantia.            El usuario admin ha dado de alta un equipo en garantia el dia 15/01/2014 a las 01:11:56 a. m.            admin            Tlanchinol            15/01/2014            
+Alta de equipo en garantia.            El usuario admin ha dado de alta un equipo en garantia el dia 15/01/2014 a las 01:15:58 a. m.            admin            Tlanchinol            15/01/2014            
+Alta de equipo en garantia.            El usuario admin ha dado de alta un equipo en garantia el dia 15/01/2014 a las 01:19:04 a. m.            admin            Tlanchinol            15/01/2014            
+Alta de equipo en garantia.            El usuario admin ha dado de alta un equipo en garantia el dia 15/01/2014 a las 01:24:12 a. m.            admin            Tlanchinol            15/01/2014            
+Alta de equipo en garantia.            El usuario admin ha dado de alta un equipo en garantia el dia 15/01/2014 a las 01:26:00 a. m.            admin            Tlanchinol            15/01/2014            
+Alta de equipo en garantia.            El usuario admin ha dado de alta un equipo en garantia el dia 15/01/2014 a las 01:45:49 a. m.            admin            Tlanchinol            15/01/2014            
+Entrega de equipo (reparacion).            El usuario admin ha entregado un equipo en reparacion el dia 15/01/2014 a las 01:49:30 a. m.            admin            Tlanchinol            15/01/2014            
+Alta de equipo en reparacion.            El usuario admin ha dado de alta un equipo en reparacion el dia 15/01/2014 a las 01:55:27 a. m.            admin            Tlanchinol            15/01/2014            
+Alta de equipo en reparacion.            El usuario admin ha dado de alta un equipo en reparacion el dia 15/01/2014 a las 01:57:12 a. m.            admin            Tlanchinol            15/01/2014            
+Alta de equipo en reparacion.            El usuario admin ha dado de alta un equipo en reparacion el dia 15/01/2014 a las 02:03:55 a. m.            admin            Tlanchinol            15/01/2014            
+Salida del programa.            El usuario admin dej? de usar el sistema el dia 15/01/2014 a las 02:17:22 a. m.            admin            Tlanchinol            15/01/2014            
+Inicio de sesi?n.            El usuario admin inicio sesion corectamente.            admin            Tlanchinol            15/01/2014            
+Salida del programa.            El usuario admin dej? de usar el sistema el dia 15/01/2014 a las 10:28:01 p. m.            admin            Tlanchinol            15/01/2014            
+Inicio de sesi?n.            El usuario admin inicio sesion corectamente.            admin            Tlanchinol            16/01/2014            
+Salida del programa.            El usuario admin dej? de usar el sistema el dia 16/01/2014 a las 06:30:49 p. m.            admin            Tlanchinol            16/01/2014            
+Inicio de sesi?n.            El usuario admin inicio sesion corectamente.            admin            Tlanchinol            16/01/2014            
+Salida del programa.            El usuario admin dej? de usar el sistema el dia 16/01/2014 a las 06:33:07 p. m.            admin            Tlanchinol            16/01/2014            
+Inicio de sesi?n.            El usuario admin inicio sesion corectamente.            admin            Tlanchinol            16/01/2014            
+Salida del programa.            El usuario admin dej? de usar el sistema el dia 16/01/2014 a las 06:34:06 p. m.            admin            Tlanchinol            16/01/2014            
+Inicio de sesi?n.            El usuario admin inicio sesion corectamente.            admin            Tlanchinol            16/01/2014            
+Salida del programa.            El usuario admin dej? de usar el sistema el dia 16/01/2014 a las 06:36:21 p. m.            admin            Tlanchinol            16/01/2014            
+Inicio de sesi?n.            El usuario admin inicio sesion corectamente.            admin            Tlanchinol            16/01/2014            
+Salida del programa.            El usuario admin dej? de usar el sistema el dia 16/01/2014 a las 06:44:17 p. m.            admin            Tlanchinol            16/01/2014            
+Inicio de sesi?n.            El usuario admin inicio sesion corectamente.            admin            Tlanchinol            16/01/2014            
+Salida del programa.            El usuario admin dej? de usar el sistema el dia 16/01/2014 a las 06:44:50 p. m.            admin            Tlanchinol            16/01/2014            
+Inicio de sesi?n.            El usuario admin inicio sesion corectamente.            admin            Tlanchinol            16/01/2014            
+Salida del programa.            El usuario admin dej? de usar el sistema el dia 16/01/2014 a las 06:49:54 p. m.            admin            Tlanchinol            16/01/2014            
+Inicio de sesi?n.            El usuario admin inicio sesion corectamente.            admin            Tlanchinol            16/01/2014            
+Salida del programa.            El usuario admin dej? de usar el sistema el dia 16/01/2014 a las 06:50:16 p. m.            admin            Tlanchinol            16/01/2014            
+Inicio de sesi?n.            El usuario admin inicio sesion corectamente.            admin            Tlanchinol            16/01/2014            
+Salida del programa.            El usuario admin dej? de usar el sistema el dia 16/01/2014 a las 06:53:07 p. m.            admin            Tlanchinol            16/01/2014            
+Inicio de sesi?n.            El usuario admin inicio sesion corectamente.            admin            Tlanchinol            16/01/2014            
+Salida del programa.            El usuario admin dej? de usar el sistema el dia 16/01/2014 a las 06:53:39 p. m.            admin            Tlanchinol            16/01/2014            
+Inicio de sesi?n.            El usuario admin inicio sesion corectamente.            admin            Tlanchinol            16/01/2014            
+Salida del programa.            El usuario admin dej? de usar el sistema el dia 16/01/2014 a las 06:55:10 p. m.            admin            Tlanchinol            16/01/2014            
+Inicio de sesi?n.            El usuario admin inicio sesion corectamente.            admin            Tlanchinol            16/01/2014            
+Salida del programa.            El usuario admin dej? de usar el sistema el dia 16/01/2014 a las 09:36:26 p. m.            admin            Tlanchinol            16/01/2014            
+Inicio de sesi?n.            El usuario admin inicio sesion corectamente.            admin            Tlanchinol            16/01/2014            
+Salida del programa.            El usuario admin dej? de usar el sistema el dia 16/01/2014 a las 09:39:10 p. m.            admin            Tlanchinol            16/01/2014            
+Inicio de sesi?n.            El usuario admin inicio sesion corectamente.            admin            Tlanchinol            16/01/2014            
+Salida del programa.            El usuario admin dej? de usar el sistema el dia 16/01/2014 a las 09:39:46 p. m.            admin            Tlanchinol            16/01/2014            
+Inicio de sesi?n.            El usuario admin inicio sesion corectamente.            admin            Tlanchinol            16/01/2014            
+Inicio de sesi?n.            El usuario admin inicio sesion corectamente.            admin            Tlanchinol            16/01/2014            
+Salida del programa.            El usuario admin dej? de usar el sistema el dia 2014-01-16 a las 09:51:22 p. m.            admin            Tlanchinol            16/01/2014            
+Inicio de sesi?n.            El usuario admin inicio sesion corectamente.            admin            Tlanchinol            16/01/2014            
+Salida del programa.            El usuario admin dej? de usar el sistema el dia 2014-01-16 a las 10:04:23 p. m.            admin            Tlanchinol            16/01/2014            
+Inicio de sesi?n.            El usuario admin inicio sesion corectamente.            admin            Tlanchinol            16/01/2014            
+Salida del programa.            El usuario admin dej? de usar el sistema el dia 2014-01-16 a las 10:14:49 p. m.            admin            Tlanchinol            16/01/2014            
+Inicio de sesi?n.            El usuario admin inicio sesion corectamente.            admin            Tlanchinol            17/01/2014            
+Salida del programa.            El usuario admin dej? de usar el sistema el dia 17/01/2014 a las 12:46:23 a. m.            admin            Tlanchinol            17/01/2014            
+Inicio de sesi?n.            El usuario admin inicio sesion corectamente.            admin            Tlanchinol            17/01/2014            
+Salida del programa.            El usuario admin dej? de usar el sistema el dia 2014-01-17 a las 02:15:51 a. m.            admin            Tlanchinol            17/01/2014            
+Inicio de sesi?n.            El usuario admin inicio sesion corectamente.            admin            Tlanchinol            17/01/2014            
+Salida del programa.            El usuario admin dej? de usar el sistema el dia 2014-01-17 a las 02:16:35 a. m.            admin            Tlanchinol            17/01/2014            
+Inicio de sesi?n.            El usuario admin inicio sesion corectamente.            admin            Tlanchinol            17/01/2014            
+Salida del programa.            El usuario admin dej? de usar el sistema el dia 17/01/2014 a las 02:21:35 a. m.            admin            Tlanchinol            17/01/2014            
+Inicio de sesi?n.            El usuario admin inicio sesion corectamente.            admin            Tlanchinol            17/01/2014            
+Alta de equipo en garantia.            El usuario admin ha dado de alta un equipo en garantia el dia 17/01/2014 a las 02:26:54 a. m.            admin            Tlanchinol            17/01/2014            
+Alta de equipo en garantia.            El usuario admin ha dado de alta un equipo en garantia el dia 17/01/2014 a las 02:31:34 a. m.            admin            Tlanchinol            17/01/2014            
+Entrega de equipo (garantia).            El usuario admin ha entregado un equipo en garantia el dia 17/01/2014 a las 02:31:44 a. m.            admin            Tlanchinol            17/01/2014            
+Alta de equipo en garantia.            El usuario admin ha dado de alta un equipo en garantia el dia 17/01/2014 a las 02:33:44 a. m.            admin            Tlanchinol            17/01/2014            
+Salida del programa.            El usuario admin dej? de usar el sistema el dia 17/01/2014 a las 02:56:41 a. m.            admin            Tlanchinol            17/01/2014            
+Inicio de sesi?n.            El usuario chapulhuacan inicio sesion corectamente.            chapulhuacan            Chapulhuacan            17/01/2014            
+Venta de equipo.            El usuario chapulhuacan ha vendido un equipo el dia 17/01/2014 a las 02:57:19 a. m.            chapulhuacan            Chapulhuacan            17/01/2014            
+Salida del programa.            El usuario chapulhuacan dej? de usar el sistema el dia 17/01/2014 a las 02:58:17 a. m.            chapulhuacan            Chapulhuacan            17/01/2014            
+Inicio de sesi?n.            El usuario admin inicio sesion corectamente.            admin            Tlanchinol            17/01/2014            
+Salida del programa.            El usuario admin dej? de usar el sistema el dia 17/01/2014 a las 03:00:36 a. m.            admin            Tlanchinol            17/01/2014            
+Inicio de sesi?n.            El usuario admin inicio sesion corectamente.            admin            Tlanchinol            17/01/2014            
+Salida del programa.            El usuario admin dej? de usar el sistema el dia 17/01/2014 a las 03:04:06 a. m.            admin            Tlanchinol            17/01/2014            
+Inicio de sesi?n.            El usuario chapulhuacan inicio sesion corectamente.            chapulhuacan            Chapulhuacan            17/01/2014            
+Venta de equipo.            El usuario chapulhuacan ha vendido un equipo el dia 17/01/2014 a las 03:04:38 a. m.            chapulhuacan            Chapulhuacan            17/01/2014            
+Venta de equipo.            El usuario chapulhuacan ha vendido un equipo el dia 17/01/2014 a las 03:04:47 a. m.            chapulhuacan            Chapulhuacan            17/01/2014            
+Salida del programa.            El usuario chapulhuacan dej? de usar el sistema el dia 17/01/2014 a las 03:05:01 a. m.            chapulhuacan            Chapulhuacan            17/01/2014            
+Inicio de sesi?n.            El usuario pisa inicio sesion corectamente.            pisa            Pisaflores            17/01/2014            
+Salida del programa.            El usuario pisa dej? de usar el sistema el dia 17/01/2014 a las 11:50:36 a. m.            pisa            Pisaflores            17/01/2014            
+Inicio de sesi?n.            El usuario admin inicio sesion corectamente.            admin            Tlanchinol            17/01/2014            
+Venta de equipo.            El usuario admin ha vendido un equipo el dia 17/01/2014 a las 11:51:26 a. m.            admin            Tlanchinol            17/01/2014            
+Venta de equipo.            El usuario admin ha vendido un equipo el dia 17/01/2014 a las 11:51:57 a. m.            admin            Tlanchinol            17/01/2014            
+Salida del programa.            El usuario admin dej? de usar el sistema el dia 17/01/2014 a las 11:52:02 a. m.            admin            Tlanchinol            17/01/2014            
+Inicio de sesi?n.            El usuario admin inicio sesion corectamente.            admin            Tlanchinol            17/01/2014            
+Salida del programa.            El usuario admin dej? de usar el sistema el dia 17/01/2014 a las 07:04:37 p. m.            admin            Tlanchinol            17/01/2014            
+Inicio de sesi?n.            El usuario admin inicio sesion corectamente.            admin            Tlanchinol            17/01/2014            
+Salida del programa.            El usuario admin dej? de usar el sistema el dia 17/01/2014 a las 07:05:46 p. m.            admin            Tlanchinol            17/01/2014            
+Inicio de sesi?n.            El usuario admin inicio sesion corectamente.            admin            Tlanchinol            17/01/2014            
+Salida del programa.            El usuario admin dej? de usar el sistema el dia 17/01/2014 a las 07:07:18 p. m.            admin            Tlanchinol            17/01/2014            
+Inicio de sesi?n.            El usuario admin inicio sesion corectamente.            admin            Tlanchinol            17/01/2014            
+Salida del programa.            El usuario admin dej? de usar el sistema el dia 17/01/2014 a las 07:07:53 p. m.            admin            Tlanchinol            17/01/2014            
+Inicio de sesi?n.            El usuario pisa inicio sesion corectamente.            pisa            Pisaflores            17/01/2014            
+Alta de equipo en reparacion.            El usuario pisa ha dado de alta un equipo en reparacion el dia 17/01/2014 a las 07:11:27 p. m.            pisa            Pisaflores            17/01/2014            
+Salida del programa.            El usuario pisa dej? de usar el sistema el dia 17/01/2014 a las 07:14:52 p. m.            pisa            Pisaflores            17/01/2014            
+Inicio de sesi?n.            El usuario pisa inicio sesion corectamente.            pisa            Pisaflores            17/01/2014            
+Entrega de equipo (reparacion).            El usuario pisa ha entregado un equipo en reparacion el dia 17/01/2014 a las 07:15:42 p. m.            pisa            Pisaflores            17/01/2014            
+Salida del programa.            El usuario pisa dej? de usar el sistema el dia 17/01/2014 a las 07:15:46 p. m.            pisa            Pisaflores            17/01/2014            
+Inicio de sesi?n.            El usuario admin inicio sesion corectamente.            admin            Tlanchinol            18/01/2014            
+Salida del programa.            El usuario admin dej? de usar el sistema el dia 18/01/2014 a las 11:59:11 p.m.            admin            Tlanchinol            18/01/2014            
+Inicio de sesi?n.            El usuario frank inicio sesion corectamente.            frank            Chapulhuacan            18/01/2014            
+Salida del programa.            El usuario frank dej? de usar el sistema el dia 19/01/2014 a las 12:04:32 a.m.            frank            Chapulhuacan            19/01/2014            
+Inicio de sesi?n.            El usuario admin inicio sesion corectamente.            admin            Tlanchinol            19/01/2014            
+Salida del programa.            El usuario admin dej? de usar el sistema el dia 19/01/2014 a las 12:07:56 a.m.            admin            Tlanchinol            19/01/2014            
+Inicio de sesi?n.            El usuario frank inicio sesion corectamente.            frank            Chapulhuacan            19/01/2014            
+Salida del programa.            El usuario frank dej? de usar el sistema el dia 19/01/2014 a las 12:08:17 a.m.            frank            Chapulhuacan            19/01/2014            
+Inicio de sesi?n.            El usuario admin inicio sesion corectamente.            admin            Tlanchinol            19/01/2014            
+Salida del programa.            El usuario admin dej? de usar el sistema el dia 19/01/2014 a las 12:10:00 a.m.            admin            Tlanchinol            19/01/2014            
+Inicio de sesi?n.            El usuario frank inicio sesion corectamente.            frank            Chapulhuacan            19/01/2014            
+Salida del programa.            El usuario frank dej? de usar el sistema el dia 19/01/2014 a las 12:11:23 a.m.            frank            Chapulhuacan            19/01/2014            
+Inicio de sesi?n.            El usuario admin inicio sesion corectamente.            admin            Tlanchinol            19/01/2014            
+Salida del programa.            El usuario admin dej? de usar el sistema el dia 19/01/2014 a las 12:17:50 a.m.            admin            Tlanchinol            19/01/2014            
+Inicio de sesi?n.            El usuario frank inicio sesion corectamente.            frank            Chapulhuacan            19/01/2014            
+Salida del programa.            El usuario frank dej? de usar el sistema el dia 19/01/2014 a las 12:19:04 a.m.            frank            Chapulhuacan            19/01/2014            
+Inicio de sesi?n.            El usuario frank inicio sesion corectamente.            frank            Chapulhuacan            19/01/2014            
+Salida del programa.            El usuario frank dej? de usar el sistema el dia 19/01/2014 a las 12:27:49 a.m.            frank            Chapulhuacan            19/01/2014            
+Inicio de sesi?n.            El usuario admin inicio sesion corectamente.            admin            Tlanchinol            19/01/2014            
+Salida del programa.            El usuario admin dej? de usar el sistema el dia 19/01/2014 a las 12:28:18 a.m.            admin            Tlanchinol            19/01/2014            
+Inicio de sesi?n.            El usuario frank inicio sesion corectamente.            frank            Chapulhuacan            19/01/2014            
+Salida del programa.            El usuario frank dej? de usar el sistema el dia 19/01/2014 a las 12:29:26 a.m.            frank            Chapulhuacan            19/01/2014            
+Inicio de sesi?n.            El usuario admin inicio sesion corectamente.            admin            Tlanchinol            19/01/2014            
+Salida del programa.            El usuario admin dej? de usar el sistema el dia 19/01/2014 a las 12:30:06 a.m.            admin            Tlanchinol            19/01/2014            
+Inicio de sesi?n.            El usuario frank inicio sesion corectamente.            frank            Chapulhuacan            19/01/2014            
+Salida del programa.            El usuario frank dej? de usar el sistema el dia 19/01/2014 a las 11:21:34 a.m.            frank            Chapulhuacan            19/01/2014            
+Inicio de sesi?n.            El usuario pao inicio sesion corectamente.            pao            Chapulhuacan            19/01/2014            
+Venta de equipo.            El usuario pao ha vendido un equipo el dia 19/01/2014 a las 12:50:01 p.m.            pao            Chapulhuacan            19/01/2014            
+Venta de equipo.            El usuario pao ha vendido un equipo el dia 19/01/2014 a las 12:50:56 p.m.            pao            Chapulhuacan            19/01/2014            
+Alta de equipo en garantia.            El usuario pao ha dado de alta un equipo en garantia el dia 19/01/2014 a las 12:51:59 p.m.            pao            Chapulhuacan            19/01/2014            
+Salida del programa.            El usuario pao dej? de usar el sistema el dia 19/01/2014 a las 12:55:30 p.m.            pao            Chapulhuacan            19/01/2014            
+Inicio de sesi?n.            El usuario bety inicio sesion corectamente.            bety            Tlanchinol            19/01/2014            
+Salida del programa.            El usuario bety dej? de usar el sistema el dia 19/01/2014 a las 12:56:20 p.m.            bety            Tlanchinol            19/01/2014            
+Inicio de sesi?n.            El usuario admin inicio sesion corectamente.            admin            Tlanchinol            20/01/2014            
+Inicio de sesi?n.            El usuario admin inicio sesion corectamente.            admin            Tlanchinol            20/01/2014            
+Inicio de sesi?n.            El usuario admin inicio sesion corectamente.            admin            Tlanchinol            20/01/2014            
+Inicio de sesi?n.            El usuario admin inicio sesion corectamente.            admin            Tlanchinol            20/01/2014            
+Inicio de sesi?n.            El usuario admin inicio sesion corectamente.            admin            Tlanchinol            20/01/2014            
+Salida del programa.            El usuario admin dej? de usar el sistema el dia 20/01/2014 a las 09:43:03 p. m.            admin            Tlanchinol            20/01/2014            
+Inicio de sesi?n.            El usuario admin inicio sesion corectamente.            admin            Tlanchinol            20/01/2014            
+Salida del programa.            El usuario admin dej? de usar el sistema el dia 20/01/2014 a las 10:04:00 p. m.            admin            Tlanchinol            20/01/2014            
+Inicio de sesi?n.            El usuario admin inicio sesion corectamente.            admin            Tlanchinol            20/01/2014            
+Salida del programa.            El usuario admin dej? de usar el sistema el dia 20/01/2014 a las 10:19:02 p. m.            admin            Tlanchinol            20/01/2014            
+Inicio de sesi?n.            El usuario admin inicio sesion corectamente.            admin            Tlanchinol            20/01/2014            
+Salida del programa.            El usuario admin dej? de usar el sistema el dia 20/01/2014 a las 10:22:40 p. m.            admin            Tlanchinol            20/01/2014            
+Inicio de sesi?n.            El usuario admin inicio sesion corectamente.            admin            Tlanchinol            21/01/2014            
+Entrega de equipo (garantia).            El usuario admin ha entregado un equipo en garantia el dia 21/01/2014 a las 12:18:27 a. m.            admin            Tlanchinol            21/01/2014            
+Salida del programa.            El usuario admin dej? de usar el sistema el dia 21/01/2014 a las 12:23:08 a. m.            admin            Tlanchinol            21/01/2014            
+Inicio de sesi?n.            El usuario frank inicio sesion corectamente.            frank            Chapulhuacan            21/01/2014            
+Salida del programa.            El usuario frank dej? de usar el sistema el dia 21/01/2014 a las 12:28:44 a. m.            frank            Chapulhuacan            21/01/2014            
+Inicio de sesi?n.            El usuario admin inicio sesion corectamente.            admin            Tlanchinol            21/01/2014            
+Salida del programa.            El usuario admin dej? de usar el sistema el dia 21/01/2014 a las 10:07:31 a.m.            admin            Tlanchinol            21/01/2014            
+Inicio de sesi?n.            El usuario admin inicio sesion corectamente.            admin            Tlanchinol            21/01/2014            
+Salida del programa.            El usuario admin dej? de usar el sistema el dia 2014-01-21 a las 01:29:19 p.m.            admin            Tlanchinol            21/01/2014            
+Inicio de sesi?n.            El usuario admin inicio sesion corectamente.            admin            Tlanchinol            21/01/2014            
+Inicio de sesi?n.            El usuario admin inicio sesion corectamente.            admin            Tlanchinol            21/01/2014            
+Alta de equipo en reparacion.            El usuario admin ha dado de alta un equipo en reparacion el dia 21/01/2014 a las 02:34:27 p.m.            admin            Tlanchinol            21/01/2014            
+Salida del programa.            El usuario admin dej? de usar el sistema el dia 21/01/2014 a las 02:34:51 p.m.            admin            Tlanchinol            21/01/2014            
+Inicio de sesi?n.            El usuario admin inicio sesion corectamente.            admin            Tlanchinol            21/01/2014            
+Salida del programa.            El usuario admin dej? de usar el sistema el dia 21/01/2014 a las 02:43:05 p.m.            admin            Tlanchinol            21/01/2014            
+Inicio de sesi?n.            El usuario admin inicio sesion corectamente.            admin            Tlanchinol            21/01/2014            
+Inicio de sesi?n.            El usuario frank inicio sesion corectamente.            frank            Chapulhuacan            21/01/2014            
+Salida del programa.            El usuario frank dej? de usar el sistema el dia 21/01/2014 a las 10:59:25 p. m.            frank            Chapulhuacan            21/01/2014            
+Inicio de sesi?n.            El usuario admin inicio sesion corectamente.            admin            Tlanchinol            21/01/2014            
+Inicio de sesi?n.            El usuario admin inicio sesion corectamente.            admin            Tlanchinol            22/01/2014            
+Venta de equipo.            El usuario admin ha vendido un equipo el dia 22/01/2014 a las 01:09:33 a. m.            admin            Tlanchinol            22/01/2014            
+Salida del programa.            El usuario admin dej? de usar el sistema el dia 22/01/2014 a las 01:09:37 a. m.            admin            Tlanchinol            22/01/2014            
+Inicio de sesi?n.            El usuario admin inicio sesion corectamente.            admin            Tlanchinol            22/01/2014            
+Salida del programa.            El usuario admin dej? de usar el sistema el dia 22/01/2014 a las 10:00:52 p. m.            admin            Tlanchinol            22/01/2014            
+Inicio de sesi?n.            El usuario admin inicio sesion corectamente.            admin            Tlanchinol            22/01/2014            
+Salida del programa.            El usuario admin dej? de usar el sistema el dia 22/01/2014 a las 10:01:00 p. m.            admin            Tlanchinol            22/01/2014            
+Inicio de sesi?n.            El usuario frank inicio sesion corectamente.            frank            Chapulhuacan            22/01/2014            
+Salida del programa.            El usuario frank dej? de usar el sistema el dia 22/01/2014 a las 10:02:10 p. m.            frank            Chapulhuacan            22/01/2014            
+Inicio de sesi?n.            El usuario admin inicio sesion corectamente.            admin            Tlanchinol            22/01/2014            
+Salida del programa.            El usuario admin dej? de usar el sistema el dia 22/01/2014 a las 11:20:06 p. m.            admin            Tlanchinol            22/01/2014            
+Inicio de sesi?n.            El usuario frank inicio sesion corectamente.            frank            Chapulhuacan            22/01/2014            
+Salida del programa.            El usuario frank dej? de usar el sistema el dia 22/01/2014 a las 11:23:56 p. m.            frank            Chapulhuacan            22/01/2014            
+Inicio de sesi?n.            El usuario admin inicio sesion corectamente.            admin            Tlanchinol            22/01/2014            
+Salida del programa.            El usuario admin dej? de usar el sistema el dia 22/01/2014 a las 11:24:19 p. m.            admin            Tlanchinol            22/01/2014            
+Inicio de sesi?n.            El usuario frank inicio sesion corectamente.            frank            Chapulhuacan            22/01/2014            
+Venta de equipo.            El usuario frank ha vendido un equipo el dia 22/01/2014 a las 11:25:49 p. m.            frank            Chapulhuacan            22/01/2014            
+Salida del programa.            El usuario frank dej? de usar el sistema el dia 22/01/2014 a las 11:28:47 p. m.            frank            Chapulhuacan            22/01/2014            
+Inicio de sesi?n.            El usuario admin inicio sesion corectamente.            admin            Tlanchinol            22/01/2014            
+Salida del programa.            El usuario admin dej? de usar el sistema el dia 22/01/2014 a las 11:35:49 p.m.            admin            Tlanchinol            22/01/2014            
+Inicio de sesi?n.            El usuario frank inicio sesion corectamente.            frank            Chapulhuacan            22/01/2014            
+Salida del programa.            El usuario frank dej? de usar el sistema el dia 22/01/2014 a las 11:37:14 p.m.            frank            Chapulhuacan            22/01/2014            
+Inicio de sesi?n.            El usuario frank inicio sesion corectamente.            frank            Chapulhuacan            23/01/2014            
+Salida del programa.            El usuario frank dej? de usar el sistema el dia 23/01/2014 a las 08:15:10 a.m.            frank            Chapulhuacan            23/01/2014            
+Inicio de sesi?n.            El usuario frank inicio sesion corectamente.            frank            Chapulhuacan            23/01/2014            
+Entrega de equipo (garantia).            El usuario frank ha entregado un equipo en garantia el dia 23/01/2014 a las 08:24:19 a.m.            frank            Chapulhuacan            23/01/2014            
+Salida del programa.            El usuario frank dej? de usar el sistema el dia 23/01/2014 a las 08:25:00 a.m.            frank            Chapulhuacan            23/01/2014            
+Inicio de sesi?n.            El usuario admin inicio sesion corectamente.            admin            Tlanchinol            23/01/2014            
+Salida del programa.            El usuario admin dej? de usar el sistema el dia 23/01/2014 a las 08:26:39 a.m.            admin            Tlanchinol            23/01/2014            
+Inicio de sesi?n.            El usuario admin inicio sesion corectamente.            admin            Tlanchinol            23/01/2014            
+Salida del programa.            El usuario admin dej? de usar el sistema el dia 23/01/2014 a las 10:45:03 a.m.            admin            Tlanchinol            23/01/2014            
+Inicio de sesi?n.            El usuario frank inicio sesion corectamente.            frank            Chapulhuacan            23/01/2014            
+Salida del programa.            El usuario frank dej? de usar el sistema el dia 23/01/2014 a las 10:47:59 a.m.            frank            Chapulhuacan            23/01/2014            
+Inicio de sesi?n.            El usuario frank inicio sesion corectamente.            frank            Chapulhuacan            23/01/2014            
+Salida del programa.            El usuario frank dej? de usar el sistema el dia 23/01/2014 a las 02:39:06 p.m.            frank            Chapulhuacan            23/01/2014            
+Inicio de sesi?n.            El usuario frank inicio sesion corectamente.            frank            Chapulhuacan            23/01/2014            
+Salida del programa.            El usuario frank dej? de usar el sistema el dia 23/01/2014 a las 09:15:55 p.m.            frank            Chapulhuacan            23/01/2014            
+Inicio de sesi?n.            El usuario admin inicio sesion corectamente.            admin            Tlanchinol            23/01/2014            
+Salida del programa.            El usuario admin dej? de usar el sistema el dia 23/01/2014 a las 09:17:23 p.m.            admin            Tlanchinol            23/01/2014            
+Inicio de sesi?n.            El usuario frank inicio sesion corectamente.            frank            Chapulhuacan            23/01/2014            
+Intento de login fallido.            El usuario: bety, ingreso datos incorrectos.            bety                        23/01/2014            
+Inicio de sesi?n.            El usuario bety inicio sesion corectamente.            bety            Tlanchinol            23/01/2014            
+Venta de equipo.            El usuario frank ha vendido un equipo el dia 23/01/2014 a las 09:20:08 p.m.            frank            Chapulhuacan            23/01/2014            
+Venta de equipo.            El usuario frank ha vendido un equipo el dia 23/01/2014 a las 09:20:14 p.m.            frank            Chapulhuacan            23/01/2014            
+Venta de equipo.            El usuario frank ha vendido un equipo el dia 23/01/2014 a las 09:20:16 p.m.            frank            Chapulhuacan            23/01/2014            
+Venta de equipo.            El usuario bety ha vendido un equipo el dia 23/01/2014 a las 09:20:26 p. m.            bety            Tlanchinol            23/01/2014            
+Venta de equipo.            El usuario bety ha vendido un equipo el dia 23/01/2014 a las 09:20:28 p. m.            bety            Tlanchinol            23/01/2014            
+Salida del programa.            El usuario bety dej? de usar el sistema el dia 23/01/2014 a las 09:20:31 p. m.            bety            Tlanchinol            23/01/2014            
+Salida del programa.            El usuario frank dej? de usar el sistema el dia 23/01/2014 a las 09:20:29 p.m.            frank            Chapulhuacan            23/01/2014            
+Inicio de sesi?n.            El usuario admin inicio sesion corectamente.            admin            Tlanchinol            23/01/2014            
+Salida del programa.            El usuario admin dej? de usar el sistema el dia 23/01/2014 a las 09:34:10 p. m.            admin            Tlanchinol            23/01/2014            
+Inicio de sesi?n.            El usuario frank inicio sesion corectamente.            frank            Chapulhuacan            23/01/2014            
+Venta de equipo.            El usuario frank ha vendido un equipo el dia 23/01/2014 a las 09:34:20 p. m.            frank            Chapulhuacan            23/01/2014            
+Salida del programa.            El usuario frank dej? de usar el sistema el dia 23/01/2014 a las 09:34:23 p. m.            frank            Chapulhuacan            23/01/2014            
+Inicio de sesi?n.            El usuario admin inicio sesion corectamente.            admin            Tlanchinol            24/01/2014            
+Inicio de sesi?n.            El usuario admin inicio sesion corectamente.            admin            Tlanchinol            24/01/2014            
+Salida del programa.            El usuario admin dej? de usar el sistema el dia 24/01/2014 a las 01:45:06 a. m.            admin            Tlanchinol            24/01/2014            
+Salida del programa.            El usuario admin dej? de usar el sistema el dia 24/01/2014 a las 01:45:04 a.m.            admin            Tlanchinol            24/01/2014            
+Inicio de sesi?n.            El usuario admin inicio sesion corectamente.            admin            Tlanchinol            24/01/2014            
+Inicio de sesi?n.            El usuario frank inicio sesion corectamente.            frank            Chapulhuacan            24/01/2014            
+Alta de equipo en garantia.            El usuario frank ha dado de alta un equipo en garantia el dia 24/01/2014 a las 01:46:47 a. m.            frank            Chapulhuacan            24/01/2014            
+Entrega de equipo (garantia).            El usuario admin ha entregado un equipo en garantia el dia 24/01/2014 a las 01:46:48 a.m.            admin            Tlanchinol            24/01/2014            
+Entrega de equipo (garantia).            El usuario admin ha entregado un equipo en garantia el dia 24/01/2014 a las 01:46:58 a.m.            admin            Tlanchinol            24/01/2014            
+Entrega de equipo (garantia).            El usuario frank ha entregado un equipo en garantia el dia 24/01/2014 a las 01:47:01 a. m.            frank            Chapulhuacan            24/01/2014            
+Salida del programa.            El usuario admin dej? de usar el sistema el dia 24/01/2014 a las 01:48:09 a.m.            admin            Tlanchinol            24/01/2014            
+Salida del programa.            El usuario frank dej? de usar el sistema el dia 24/01/2014 a las 01:48:25 a. m.            frank            Chapulhuacan            24/01/2014            
+Inicio de sesi?n.            El usuario admin inicio sesion corectamente.            admin            Tlanchinol            24/01/2014            
+Salida del programa.            El usuario admin dej? de usar el sistema el dia 24/01/2014 a las 01:55:03 a.m.            admin            Tlanchinol            24/01/2014            
+Inicio de sesi?n.            El usuario frank inicio sesion corectamente.            frank            Chapulhuacan            24/01/2014            
+Inicio de sesi?n.            El usuario admin inicio sesion corectamente.            admin            Tlanchinol            24/01/2014            
+Salida del programa.            El usuario admin dej? de usar el sistema el dia 24/01/2014 a las 07:37:24 a.m.            admin            Tlanchinol            24/01/2014            
+Inicio de sesi?n.            El usuario admin inicio sesion corectamente.            admin            Tlanchinol            24/01/2014            
+Salida del programa.            El usuario admin dej? de usar el sistema el dia 24/01/2014 a las 07:39:20 a.m.            admin            Tlanchinol            24/01/2014            
+Inicio de sesi?n.            El usuario admin inicio sesion corectamente.            admin            Tlanchinol            24/01/2014            
+Salida del programa.            El usuario admin dej? de usar el sistema el dia 24/01/2014 a las 07:40:29 a.m.            admin            Tlanchinol            24/01/2014            
+Inicio de sesi?n.            El usuario admin inicio sesion corectamente.            admin            Tlanchinol            24/01/2014            
+Salida del programa.            El usuario admin dej? de usar el sistema el dia 24/01/2014 a las 07:41:05 a.m.            admin            Tlanchinol            24/01/2014            
+Inicio de sesi?n.            El usuario admin inicio sesion corectamente.            admin            Tlanchinol            24/01/2014            
+Salida del programa.            El usuario admin dej? de usar el sistema el dia 24/01/2014 a las 07:42:19 a.m.            admin            Tlanchinol            24/01/2014            
+Inicio de sesi?n.            El usuario admin inicio sesion corectamente.            admin            Tlanchinol            24/01/2014            
+Salida del programa.            El usuario admin dej? de usar el sistema el dia 24/01/2014 a las 09:44:25 a.m.            admin            Tlanchinol            24/01/2014            
+Inicio de sesi?n.            El usuario frank inicio sesion corectamente.            frank            Chapulhuacan            24/01/2014            
+Salida del programa.            El usuario frank dej? de usar el sistema el dia 24/01/2014 a las 09:52:11 a.m.            frank            Chapulhuacan            24/01/2014            
+Inicio de sesi?n.            El usuario frank inicio sesion corectamente.            frank            Chapulhuacan            24/01/2014            
+Alta de equipo en garantia.            El usuario frank ha dado de alta un equipo en garantia el dia 24/01/2014 a las 10:15:03 a.m.            frank            Chapulhuacan            24/01/2014            
+Salida del programa.            El usuario frank dej? de usar el sistema el dia 2014-01-24 a las 10:16:49 a.m.            frank            Chapulhuacan            24/01/2014            
+Inicio de sesi?n.            El usuario admin inicio sesion corectamente.            admin            Tlanchinol            24/01/2014            
+Salida del programa.            El usuario admin dej? de usar el sistema el dia 2014-01-24 a las 10:20:00 a.m.            admin            Tlanchinol            24/01/2014            
+Inicio de sesi?n.            El usuario admin inicio sesion corectamente.            admin            Tlanchinol            24/01/2014            
+Salida del programa.            El usuario admin dej? de usar el sistema el dia 2014-01-24 a las 10:22:03 a.m.            admin            Tlanchinol            24/01/2014            
+Inicio de sesi?n.            El usuario admin inicio sesion corectamente.            admin            Tlanchinol            24/01/2014            
+Salida del programa.            El usuario admin dej? de usar el sistema el dia 2014-01-24 a las 10:25:06 a.m.            admin            Tlanchinol            24/01/2014            
+Inicio de sesi?n.            El usuario admin inicio sesion corectamente.            admin            Tlanchinol            24/01/2014            
+Salida del programa.            El usuario admin dej? de usar el sistema el dia 24/01/2014 a las 10:25:48 a.m.            admin            Tlanchinol            24/01/2014            
+Inicio de sesi?n.            El usuario admin inicio sesion corectamente.            admin            Tlanchinol            24/01/2014            
+Salida del programa.            El usuario admin dej? de usar el sistema el dia 2014-01-24 a las 10:26:16 a.m.            admin            Tlanchinol            24/01/2014            
+Inicio de sesi?n.            El usuario admin inicio sesion corectamente.            admin            Tlanchinol            24/01/2014            
+Alta de equipo en garantia.            El usuario admin ha dado de alta un equipo en garantia el dia 2014-01-24 a las 10:28:00 a.m.            admin            Tlanchinol            24/01/2014            
+Salida del programa.            El usuario admin dej? de usar el sistema el dia 2014-01-24 a las 10:28:17 a.m.            admin            Tlanchinol            24/01/2014            
+Inicio de sesi?n.            El usuario admin inicio sesion corectamente.            admin            Tlanchinol            24/01/2014            
+Salida del programa.            El usuario admin dej? de usar el sistema el dia 24/01/2014 a las 10:33:33 a.m.            admin            Tlanchinol            24/01/2014            
+Inicio de sesi?n.            El usuario admin inicio sesion corectamente.            admin            Tlanchinol            24/01/2014            
+Salida del programa.            El usuario admin dej? de usar el sistema el dia 24/01/2014 a las 10:34:14 a.m.            admin            Tlanchinol            24/01/2014            
+Inicio de sesi?n.            El usuario admin inicio sesion corectamente.            admin            Tlanchinol            24/01/2014            
+Inicio de sesi?n.            El usuario admin inicio sesion corectamente.            admin            Tlanchinol            24/01/2014            
+Salida del programa.            El usuario admin dej? de usar el sistema el dia 24/01/2014 a las 10:35:38 a.m.            admin            Tlanchinol            24/01/2014            
+Inicio de sesi?n.            El usuario frank inicio sesion corectamente.            frank            Chapulhuacan            24/01/2014            
+Salida del programa.            El usuario frank dej? de usar el sistema el dia 24/01/2014 a las 10:10:56 p. m.            frank            Chapulhuacan            24/01/2014            
+Inicio de sesi?n.            El usuario admin inicio sesion corectamente.            admin            Tlanchinol            24/01/2014            
+Salida del programa.            El usuario admin dej? de usar el sistema el dia 2014-01-24 a las 10:18:03 p. m.            admin            Tlanchinol            24/01/2014            
+Inicio de sesi?n.            El usuario admin inicio sesion corectamente.            admin            Tlanchinol            24/01/2014            
+Salida del programa.            El usuario admin dej? de usar el sistema el dia 24/01/2014 a las 10:57:06 p. m.            admin            Tlanchinol            24/01/2014            
+Inicio de sesi?n.            El usuario admin inicio sesion corectamente.            admin            Tlanchinol            24/01/2014            
+Salida del programa.            El usuario admin dej? de usar el sistema el dia 24/01/2014 a las 10:57:52 p. m.            admin            Tlanchinol            24/01/2014            
+Inicio de sesi?n.            El usuario admin inicio sesion corectamente.            admin            Tlanchinol            24/01/2014            
+Salida del programa.            El usuario admin dej? de usar el sistema el dia 24/01/2014 a las 10:58:21 p. m.            admin            Tlanchinol            24/01/2014            
+Inicio de sesi?n.            El usuario frank inicio sesion corectamente.            frank            Chapulhuacan            24/01/2014            
+Salida del programa.            El usuario frank dej? de usar el sistema el dia 24/01/2014 a las 11:19:19 p. m.            frank            Chapulhuacan            24/01/2014            
+Inicio de sesi?n.            El usuario admin inicio sesion corectamente.            admin            Tlanchinol            24/01/2014            
+Inicio de sesi?n.            El usuario admin inicio sesion corectamente.            admin            Tlanchinol            24/01/2014            
+Salida del programa.            El usuario admin dej? de usar el sistema el dia 24/01/2014 a las 11:21:20 p. m.            admin            Tlanchinol            24/01/2014            
+Inicio de sesi?n.            El usuario admin inicio sesion corectamente.            admin            Tlanchinol            24/01/2014            
+Salida del programa.            El usuario admin dej? de usar el sistema el dia 24/01/2014 a las 11:22:23 p. m.            admin            Tlanchinol            24/01/2014            
+Inicio de sesi?n.            El usuario admin inicio sesion corectamente.            admin            Tlanchinol            24/01/2014            
+Salida del programa.            El usuario admin dej? de usar el sistema el dia 2014-01-24 a las 11:26:06 p. m.            admin            Tlanchinol            24/01/2014            
+Inicio de sesi?n.            El usuario admin inicio sesion corectamente.            admin            Tlanchinol            24/01/2014            
+Salida del programa.            El usuario admin dej? de usar el sistema el dia 2014-01-24 a las 11:26:49 p. m.            admin            Tlanchinol            24/01/2014            
+Inicio de sesi?n.            El usuario admin inicio sesion corectamente.            admin            Tlanchinol            24/01/2014            
+Salida del programa.            El usuario admin dej? de usar el sistema el dia 2014-01-24 a las 11:27:11 p. m.            admin            Tlanchinol            24/01/2014            
+Inicio de sesi?n.            El usuario admin inicio sesion corectamente.            admin            Tlanchinol            24/01/2014            
+Alta de equipo en reparacion.            El usuario admin ha dado de alta un equipo en reparacion el dia 24/01/2014 a las 11:29:24 p. m.            admin            Tlanchinol            24/01/2014            
+Salida del programa.            El usuario admin dej? de usar el sistema el dia 24/01/2014 a las 11:29:36 p. m.            admin            Tlanchinol            24/01/2014            
+Inicio de sesi?n.            El usuario admin inicio sesion corectamente.            admin            Tlanchinol            24/01/2014            
+Salida del programa.            El usuario admin dej? de usar el sistema el dia 24/01/2014 a las 11:29:52 p. m.            admin            Tlanchinol            24/01/2014            
+Inicio de sesi?n.            El usuario admin inicio sesion corectamente.            admin            Tlanchinol            24/01/2014            
+Salida del programa.            El usuario admin dej? de usar el sistema el dia 2014-01-24 a las 11:30:28 p. m.            admin            Tlanchinol            24/01/2014            
+Inicio de sesi?n.            El usuario admin inicio sesion corectamente.            admin            Tlanchinol            24/01/2014            
+Salida del programa.            El usuario admin dej? de usar el sistema el dia 24/01/2014 a las 11:31:31 p. m.            admin            Tlanchinol            24/01/2014            
+Inicio de sesi?n.            El usuario admin inicio sesion corectamente.            admin            Tlanchinol            24/01/2014            
+Salida del programa.            El usuario admin dej? de usar el sistema el dia 24/01/2014 a las 11:32:21 p. m.            admin            Tlanchinol            24/01/2014            
+Inicio de sesi?n.            El usuario admin inicio sesion corectamente.            admin            Tlanchinol            24/01/2014            
+Salida del programa.            El usuario admin dej? de usar el sistema el dia 24/01/2014 a las 11:34:05 p. m.            admin            Tlanchinol            24/01/2014            
+Inicio de sesi?n.            El usuario admin inicio sesion corectamente.            admin            Tlanchinol            24/01/2014            
+Entrega de equipo (reparacion).            El usuario admin ha entregado un equipo en reparacion el dia 24/01/2014 a las 11:36:22 p. m.            admin            Tlanchinol            24/01/2014            
+Entrega de equipo (reparacion).            El usuario admin ha entregado un equipo en reparacion el dia 24/01/2014 a las 11:37:29 p. m.            admin            Tlanchinol            24/01/2014            
+Salida del programa.            El usuario admin dej? de usar el sistema el dia 24/01/2014 a las 11:37:32 p. m.            admin            Tlanchinol            24/01/2014            
+Inicio de sesi?n.            El usuario admin inicio sesion corectamente.            admin            Tlanchinol            24/01/2014            
+Entrega de equipo (reparacion).            El usuario admin ha entregado un equipo en reparacion el dia 24/01/2014 a las 11:38:38 p. m.            admin            Tlanchinol            24/01/2014            
+Salida del programa.            El usuario admin dej? de usar el sistema el dia 24/01/2014 a las 11:48:45 p. m.            admin            Tlanchinol            24/01/2014            
+Inicio de sesi?n.            El usuario admin inicio sesion corectamente.            admin            Tlanchinol            25/01/2014            
+Salida del programa.            El usuario admin dej? de usar el sistema el dia 25/01/2014 a las 12:17:34 a. m.            admin            Tlanchinol            25/01/2014            
+Inicio de sesi?n.            El usuario admin inicio sesion corectamente.            admin            Tlanchinol            25/01/2014            
+Salida del programa.            El usuario admin dej? de usar el sistema el dia 25/01/2014 a las 12:51:42 a. m.            admin            Tlanchinol            25/01/2014            
+Inicio de sesi?n.            El usuario frank inicio sesion corectamente.            frank            Chapulhuacan            25/01/2014            
+Salida del programa.            El usuario frank dej? de usar el sistema el dia 25/01/2014 a las 12:12:09 p. m.            frank            Chapulhuacan            25/01/2014            
+Inicio de sesi?n.            El usuario admin inicio sesion corectamente.            admin            Tlanchinol            25/01/2014            
+Salida del programa.            El usuario admin dej? de usar el sistema el dia 25/01/2014 a las 12:29:44 p. m.            admin            Tlanchinol            25/01/2014            
+Inicio de sesi?n.            El usuario admin inicio sesion corectamente.            admin            Tlanchinol            25/01/2014            
+Salida del programa.            El usuario admin dej? de usar el sistema el dia 25/01/2014 a las 04:51:53 p. m.            admin            Tlanchinol            25/01/2014            
+Inicio de sesi?n.            El usuario admin inicio sesion corectamente.            admin            Tlanchinol            25/01/2014            
+Salida del programa.            El usuario admin dej? de usar el sistema el dia 25/01/2014 a las 04:56:07 p. m.            admin            Tlanchinol            25/01/2014            
+Inicio de sesi?n.            El usuario admin inicio sesion corectamente.            admin            Tlanchinol            26/01/2014            
+Salida del programa.            El usuario admin dej? de usar el sistema el dia 26/01/2014 a las 12:02:36 p. m.            admin            Tlanchinol            26/01/2014            
+Inicio de sesi?n.            El usuario admin inicio sesion corectamente.            admin            Tlanchinol            26/01/2014            
+Salida del programa.            El usuario admin dej? de usar el sistema el dia 26/01/2014 a las 01:28:09 p. m.            admin            Tlanchinol            26/01/2014            
+Inicio de sesi?n.            El usuario admin inicio sesion corectamente.            admin            Tlanchinol            26/01/2014            
+Salida del programa.            El usuario admin dej? de usar el sistema el dia 26/01/2014 a las 01:50:44 p. m.            admin            Tlanchinol            26/01/2014            
+Inicio de sesi?n.            El usuario admin inicio sesion corectamente.            admin            Tlanchinol            26/01/2014            
+Salida del programa.            El usuario admin dej? de usar el sistema el dia 26/01/2014 a las 01:58:19 p. m.            admin            Tlanchinol            26/01/2014            
+Inicio de sesi?n.            El usuario admin inicio sesion corectamente.            admin            Tlanchinol            26/01/2014            
+Salida del programa.            El usuario admin dej? de usar el sistema el dia 26/01/2014 a las 01:59:46 p. m.            admin            Tlanchinol            26/01/2014            
+Inicio de sesi?n.            El usuario admin inicio sesion corectamente.            admin            Tlanchinol            26/01/2014            
+Salida del programa.            El usuario admin dej? de usar el sistema el dia 26/01/2014 a las 02:01:23 p. m.            admin            Tlanchinol            26/01/2014            
+Inicio de sesi?n.            El usuario admin inicio sesion corectamente.            admin            Tlanchinol            26/01/2014            
+Salida del programa.            El usuario admin dej? de usar el sistema el dia 26/01/2014 a las 02:10:33 p. m.            admin            Tlanchinol            26/01/2014            
+Inicio de sesi?n.            El usuario admin inicio sesion corectamente.            admin            Tlanchinol            26/01/2014            
+Salida del programa.            El usuario admin dej? de usar el sistema el dia 26/01/2014 a las 02:11:28 p. m.            admin            Tlanchinol            26/01/2014            
+Inicio de sesi?n.            El usuario admin inicio sesion corectamente.            admin            Tlanchinol            26/01/2014            
+Salida del programa.            El usuario admin dej? de usar el sistema el dia 26/01/2014 a las 02:12:06 p. m.            admin            Tlanchinol            26/01/2014            
+Inicio de sesi?n.            El usuario admin inicio sesion corectamente.            admin            Tlanchinol            26/01/2014            
+Salida del programa.            El usuario admin dej? de usar el sistema el dia 26/01/2014 a las 03:19:11 p. m.            admin            Tlanchinol            26/01/2014            
+Inicio de sesi?n.            El usuario admin inicio sesion corectamente.            admin            Tlanchinol            26/01/2014            
+Salida del programa.            El usuario admin dej? de usar el sistema el dia 26/01/2014 a las 04:35:59 p. m.            admin            Tlanchinol            26/01/2014            
+Inicio de sesi?n.            El usuario admin inicio sesion corectamente.            admin            Tlanchinol            26/01/2014            
+Salida del programa.            El usuario admin dej? de usar el sistema el dia 26/01/2014 a las 05:48:25 p. m.            admin            Tlanchinol            26/01/2014            
+Inicio de sesi?n.            El usuario admin inicio sesion corectamente.            admin            Tlanchinol            26/01/2014            
+Salida del programa.            El usuario admin dej? de usar el sistema el dia 26/01/2014 a las 05:59:43 p. m.            admin            Tlanchinol            26/01/2014            
+Inicio de sesi?n.            El usuario admin inicio sesion corectamente.            admin            Tlanchinol            26/01/2014            
+Salida del programa.            El usuario admin dej? de usar el sistema el dia 26/01/2014 a las 06:01:58 p. m.            admin            Tlanchinol            26/01/2014            
+Inicio de sesi?n.            El usuario admin inicio sesion corectamente.            admin            Tlanchinol            26/01/2014            
+Salida del programa.            El usuario admin dej? de usar el sistema el dia 26/01/2014 a las 06:49:07 p. m.            admin            Tlanchinol            26/01/2014            
+Inicio de sesi?n.            El usuario admin inicio sesion corectamente.            admin            Tlanchinol            26/01/2014            
+Salida del programa.            El usuario admin dej? de usar el sistema el dia 26/01/2014 a las 06:49:38 p. m.            admin            Tlanchinol            26/01/2014            
+Inicio de sesi?n.            El usuario admin inicio sesion corectamente.            admin            Tlanchinol            26/01/2014            
+Salida del programa.            El usuario admin dej? de usar el sistema el dia 26/01/2014 a las 06:55:01 p. m.            admin            Tlanchinol            26/01/2014            
+Inicio de sesi?n.            El usuario admin inicio sesion corectamente.            admin            Tlanchinol            26/01/2014            
+Salida del programa.            El usuario admin dej? de usar el sistema el dia 26/01/2014 a las 07:03:10 p. m.            admin            Tlanchinol            26/01/2014            
+Inicio de sesi?n.            El usuario admin inicio sesion corectamente.            admin            Tlanchinol            26/01/2014            
+Salida del programa.            El usuario admin dej? de usar el sistema el dia 26/01/2014 a las 07:04:00 p. m.            admin            Tlanchinol            26/01/2014            
+Inicio de sesi?n.            El usuario frank inicio sesion corectamente.            frank            Chapulhuacan            26/01/2014            
+Salida del programa.            El usuario frank dej? de usar el sistema el dia 26/01/2014 a las 07:04:31 p. m.            frank            Chapulhuacan            26/01/2014            
+Inicio de sesi?n.            El usuario admin inicio sesion corectamente.            admin            Tlanchinol            26/01/2014            
+Salida del programa.            El usuario admin dej? de usar el sistema el dia 26/01/2014 a las 07:09:17 p. m.            admin            Tlanchinol            26/01/2014            
+Inicio de sesi?n.            El usuario admin inicio sesion corectamente.            admin            Tlanchinol            26/01/2014            
+Inicio de sesi?n.            El usuario admin inicio sesion corectamente.            admin            Tlanchinol            26/01/2014            
+Alta de equipo en reparacion.            El usuario admin ha dado de alta un equipo en reparacion el dia 26/01/2014 a las 07:37:32 p.m.            admin            Tlanchinol            26/01/2014            
+Alta de equipo en reparacion.            El usuario admin ha dado de alta un equipo en reparacion el dia 26/01/2014 a las 07:37:40 p.m.            admin            Tlanchinol            26/01/2014            
+Salida del programa.            El usuario admin dej? de usar el sistema el dia 26/01/2014 a las 07:38:25 p.m.            admin            Tlanchinol            26/01/2014            
+Salida del programa.            El usuario admin dej? de usar el sistema el dia 26/01/2014 a las 07:38:35 p. m.            admin            Tlanchinol            26/01/2014            
+Inicio de sesi?n.            El usuario admin inicio sesion corectamente.            admin            Tlanchinol            26/01/2014            
+Salida del programa.            El usuario admin dej? de usar el sistema el dia 26/01/2014 a las 09:21:04 p. m.            admin            Tlanchinol            26/01/2014            
+Inicio de sesi?n.            El usuario admin inicio sesion corectamente.            admin            Tlanchinol            26/01/2014            
+Salida del programa.            El usuario admin dej? de usar el sistema el dia 26/01/2014 a las 09:22:59 p. m.            admin            Tlanchinol            26/01/2014            
+Inicio de sesi?n.            El usuario admin inicio sesion corectamente.            admin            Tlanchinol            26/01/2014            
+Salida del programa.            El usuario admin dej? de usar el sistema el dia 26/01/2014 a las 09:23:21 p. m.            admin            Tlanchinol            26/01/2014            
+Inicio de sesi?n.            El usuario admin inicio sesion corectamente.            admin            Tlanchinol            26/01/2014            
+Salida del programa.            El usuario admin dej? de usar el sistema el dia 26/01/2014 a las 09:25:44 p. m.            admin            Tlanchinol            26/01/2014            
+Inicio de sesi?n.            El usuario admin inicio sesion corectamente.            admin            Tlanchinol            26/01/2014            
+Salida del programa.            El usuario admin dej? de usar el sistema el dia 26/01/2014 a las 09:27:26 p. m.            admin            Tlanchinol            26/01/2014            
+Inicio de sesi?n.            El usuario admin inicio sesion corectamente.            admin            Tlanchinol            26/01/2014            
+Salida del programa.            El usuario admin dej? de usar el sistema el dia 26/01/2014 a las 09:27:59 p. m.            admin            Tlanchinol            26/01/2014            
+Inicio de sesi?n.            El usuario admin inicio sesion corectamente.            admin            Tlanchinol            26/01/2014            
+Salida del programa.            El usuario admin dej? de usar el sistema el dia 26/01/2014 a las 09:28:23 p. m.            admin            Tlanchinol            26/01/2014            
+Inicio de sesi?n.            El usuario admin inicio sesion corectamente.            admin            Tlanchinol            26/01/2014            
+Salida del programa.            El usuario admin dej? de usar el sistema el dia 26/01/2014 a las 09:30:43 p. m.            admin            Tlanchinol            26/01/2014            
+Inicio de sesi?n.            El usuario admin inicio sesion corectamente.            admin            Tlanchinol            26/01/2014            
+Salida del programa.            El usuario admin dej? de usar el sistema el dia 26/01/2014 a las 09:49:16 p. m.            admin            Tlanchinol            26/01/2014            
+Inicio de sesi?n.            El usuario admin inicio sesion corectamente.            admin            Tlanchinol            26/01/2014            
+Salida del programa.            El usuario admin dej? de usar el sistema el dia 26/01/2014 a las 10:49:20 p. m.            admin            Tlanchinol            26/01/2014            
+Inicio de sesi?n.            El usuario admin inicio sesion corectamente.            admin            Tlanchinol            26/01/2014            
+Salida del programa.            El usuario admin dej? de usar el sistema el dia 26/01/2014 a las 10:54:00 p. m.            admin            Tlanchinol            26/01/2014            
+Inicio de sesi?n.            El usuario admin inicio sesion corectamente.            admin            Tlanchinol            26/01/2014            
+Salida del programa.            El usuario admin dej? de usar el sistema el dia 26/01/2014 a las 10:54:58 p. m.            admin            Tlanchinol            26/01/2014            
+Inicio de sesi?n.            El usuario admin inicio sesion corectamente.            admin            Tlanchinol            26/01/2014            
+Salida del programa.            El usuario admin dej? de usar el sistema el dia 26/01/2014 a las 11:01:28 p. m.            admin            Tlanchinol            26/01/2014            
+Inicio de sesi?n.            El usuario admin inicio sesion corectamente.            admin            Tlanchinol            26/01/2014            
+Salida del programa.            El usuario admin dej? de usar el sistema el dia 26/01/2014 a las 11:02:12 p. m.            admin            Tlanchinol            26/01/2014            
+Inicio de sesi?n.            El usuario admin inicio sesion corectamente.            admin            Tlanchinol            26/01/2014            
+Salida del programa.            El usuario admin dej? de usar el sistema el dia 26/01/2014 a las 11:03:35 p. m.            admin            Tlanchinol            26/01/2014            
+Inicio de sesi?n.            El usuario admin inicio sesion corectamente.            admin            Tlanchinol            26/01/2014            
+Salida del programa.            El usuario admin dej? de usar el sistema el dia 26/01/2014 a las 11:22:23 p.m.            admin            Tlanchinol            26/01/2014            
+Inicio de sesi?n.            El usuario admin inicio sesion corectamente.            admin            Tlanchinol            26/01/2014            
+Salida del programa.            El usuario admin dej? de usar el sistema el dia 26/01/2014 a las 11:23:44 p.m.            admin            Tlanchinol            26/01/2014            
+Inicio de sesi?n.            El usuario CHRISTIAN inicio sesion corectamente.            CHRISTIAN            Chapulhuacan            26/01/2014            
+Salida del programa.            El usuario CHRISTIAN dej? de usar el sistema el dia 26/01/2014 a las 11:26:04 p. m.            CHRISTIAN            Chapulhuacan            26/01/2014            
+Inicio de sesi?n.            El usuario admin inicio sesion corectamente.            admin            Tlanchinol            26/01/2014            
+Salida del programa.            El usuario admin dej? de usar el sistema el dia 26/01/2014 a las 11:27:44 p.m.            admin            Tlanchinol            26/01/2014            
+Inicio de sesi?n.            El usuario admin inicio sesion corectamente.            admin            Tlanchinol            26/01/2014            
+Salida del programa.            El usuario admin dej? de usar el sistema el dia 26/01/2014 a las 11:29:21 p. m.            admin            Tlanchinol            26/01/2014            
+Inicio de sesi?n.            El usuario admin inicio sesion corectamente.            admin            Tlanchinol            26/01/2014            
+Salida del programa.            El usuario admin dej? de usar el sistema el dia 26/01/2014 a las 11:29:47 p.m.            admin            Tlanchinol            26/01/2014            
+Inicio de sesi?n.            El usuario admin inicio sesion corectamente.            admin            Tlanchinol            26/01/2014            
+Salida del programa.            El usuario admin dej? de usar el sistema el dia 26/01/2014 a las 11:31:47 p.m.            admin            Tlanchinol            26/01/2014            
+Inicio de sesi?n.            El usuario admin inicio sesion corectamente.            admin            Tlanchinol            26/01/2014            
+Salida del programa.            El usuario admin dej? de usar el sistema el dia 26/01/2014 a las 11:36:46 p.m.            admin            Tlanchinol            26/01/2014            
+Inicio de sesi?n.            El usuario admin inicio sesion corectamente.            admin            Tlanchinol            26/01/2014            
+Salida del programa.            El usuario admin dej? de usar el sistema el dia 26/01/2014 a las 11:37:10 p.m.            admin            Tlanchinol            26/01/2014            
+Inicio de sesi?n.            El usuario admin inicio sesion corectamente.            admin            Tlanchinol            26/01/2014            
+Salida del programa.            El usuario admin dej? de usar el sistema el dia 26/01/2014 a las 11:38:09 p.m.            admin            Tlanchinol            26/01/2014            
+Inicio de sesi?n.            El usuario admin inicio sesion corectamente.            admin            Tlanchinol            26/01/2014            
+Salida del programa.            El usuario admin dej? de usar el sistema el dia 26/01/2014 a las 11:48:45 p.m.            admin            Tlanchinol            26/01/2014            
+Inicio de sesi?n.            El usuario admin inicio sesion corectamente.            admin            Tlanchinol            27/01/2014            
+Salida del programa.            El usuario admin dej? de usar el sistema el dia 27/01/2014 a las 11:10:31 a.m.            admin            Tlanchinol            27/01/2014            
+Inicio de sesi?n.            El usuario admin inicio sesion corectamente.            admin            Tlanchinol            27/01/2014            
+Salida del programa.            El usuario admin dej? de usar el sistema el dia 27/01/2014 a las 12:02:07 p.m.            admin            Tlanchinol            27/01/2014            
+Inicio de sesi?n.            El usuario chapulhuacan inicio sesion corectamente.            chapulhuacan            Chapulhuacan            27/01/2014            
+Inicio de sesi?n.            El usuario frank inicio sesion corectamente.            frank            Chapulhuacan            27/01/2014            
+Salida del programa.            El usuario frank dej? de usar el sistema el dia 27/01/2014 a las 03:15:47 p. m.            frank            Chapulhuacan            27/01/2014            
+Inicio de sesi?n.            El usuario admin inicio sesion corectamente.            admin            Tlanchinol            28/01/2014            
+Salida del programa.            El usuario admin dej? de usar el sistema el dia 28/01/2014 a las 01:19:10 a. m.            admin            Tlanchinol            28/01/2014            
+Inicio de sesi?n.            El usuario frank inicio sesion corectamente.            frank            Chapulhuacan            28/01/2014            
+Salida del programa.            El usuario frank dej? de usar el sistema el dia 28/01/2014 a las 01:19:38 a. m.            frank            Chapulhuacan            28/01/2014            
+Inicio de sesi?n.            El usuario admin inicio sesion corectamente.            admin            Tlanchinol            28/01/2014            
+Salida del programa.            El usuario admin dej? de usar el sistema el dia 28/01/2014 a las 01:27:08 a. m.            admin            Tlanchinol            28/01/2014            
+Inicio de sesi?n.            El usuario admin inicio sesion corectamente.            admin            Tlanchinol            28/01/2014            
+Venta de equipo.            El usuario admin ha vendido un equipo el dia 28/01/2014 a las 01:29:59 a. m.            admin            Tlanchinol            28/01/2014            
+Salida del programa.            El usuario admin dej? de usar el sistema el dia 28/01/2014 a las 01:30:26 a. m.            admin            Tlanchinol            28/01/2014            
+Inicio de sesi?n.            El usuario admin inicio sesion corectamente.            admin            Tlanchinol            28/01/2014            
+Salida del programa.            El usuario admin dej? de usar el sistema el dia 28/01/2014 a las 11:30:30 a.m.            admin            Tlanchinol            28/01/2014            
+Inicio de sesi?n.            El usuario admin inicio sesion corectamente.            admin            Tlanchinol            28/01/2014            
+Salida del programa.            El usuario admin dej? de usar el sistema el dia 28/01/2014 a las 11:40:54 a.m.            admin            Tlanchinol            28/01/2014            
+Inicio de sesi?n.            El usuario admin inicio sesion corectamente.            admin            Tlanchinol            28/01/2014            
+Salida del programa.            El usuario admin dej? de usar el sistema el dia 28/01/2014 a las 11:47:52 a.m.            admin            Tlanchinol            28/01/2014            
+Inicio de sesi?n.            El usuario admin inicio sesion corectamente.            admin            Tlanchinol            28/01/2014            
+Salida del programa.            El usuario admin dej? de usar el sistema el dia 28/01/2014 a las 11:52:35 a.m.            admin            Tlanchinol            28/01/2014            
+Inicio de sesi?n.            El usuario admin inicio sesion corectamente.            admin            Tlanchinol            28/01/2014            
+Salida del programa.            El usuario admin dej? de usar el sistema el dia 28/01/2014 a las 11:55:37 a.m.            admin            Tlanchinol            28/01/2014            
+Inicio de sesi?n.            El usuario admin inicio sesion corectamente.            admin            Tlanchinol            28/01/2014            
+Salida del programa.            El usuario admin dej? de usar el sistema el dia 28/01/2014 a las 11:56:46 a.m.            admin            Tlanchinol            28/01/2014            
+Inicio de sesi?n.            El usuario admin inicio sesion corectamente.            admin            Tlanchinol            28/01/2014            
+Salida del programa.            El usuario admin dej? de usar el sistema el dia 28/01/2014 a las 12:12:18 p.m.            admin            Tlanchinol            28/01/2014            
+Inicio de sesi?n.            El usuario admin inicio sesion corectamente.            admin            Tlanchinol            28/01/2014            
+Salida del programa.            El usuario admin dej? de usar el sistema el dia 28/01/2014 a las 12:13:21 p.m.            admin            Tlanchinol            28/01/2014            
+Inicio de sesi?n.            El usuario admin inicio sesion corectamente.            admin            Tlanchinol            28/01/2014            
+Salida del programa.            El usuario admin dej? de usar el sistema el dia 28/01/2014 a las 12:14:16 p.m.            admin            Tlanchinol            28/01/2014            
+Inicio de sesi?n.            El usuario admin inicio sesion corectamente.            admin            Tlanchinol            28/01/2014            
+Salida del programa.            El usuario admin dej? de usar el sistema el dia 28/01/2014 a las 12:19:15 p.m.            admin            Tlanchinol            28/01/2014            
+Inicio de sesi?n.            El usuario admin inicio sesion corectamente.            admin            Tlanchinol            28/01/2014            
+Salida del programa.            El usuario admin dej? de usar el sistema el dia 28/01/2014 a las 12:21:48 p.m.            admin            Tlanchinol            28/01/2014            
+Inicio de sesi?n.            El usuario admin inicio sesion corectamente.            admin            Tlanchinol            28/01/2014            
+Salida del programa.            El usuario admin dej? de usar el sistema el dia 28/01/2014 a las 12:22:14 p.m.            admin            Tlanchinol            28/01/2014            
+Inicio de sesi?n.            El usuario admin inicio sesion corectamente.            admin            Tlanchinol            28/01/2014            
+Salida del programa.            El usuario admin dej? de usar el sistema el dia 28/01/2014 a las 12:22:50 p.m.            admin            Tlanchinol            28/01/2014            
+Inicio de sesi?n.            El usuario admin inicio sesion corectamente.            admin            Tlanchinol            28/01/2014            
+Salida del programa.            El usuario admin dej? de usar el sistema el dia 28/01/2014 a las 12:23:19 p.m.            admin            Tlanchinol            28/01/2014            
+Inicio de sesi?n.            El usuario admin inicio sesion corectamente.            admin            Tlanchinol            28/01/2014            
+Salida del programa.            El usuario admin dej? de usar el sistema el dia 28/01/2014 a las 12:25:33 p.m.            admin            Tlanchinol            28/01/2014            
+Inicio de sesi?n.            El usuario admin inicio sesion corectamente.            admin            Tlanchinol            28/01/2014            
+Salida del programa.            El usuario admin dej? de usar el sistema el dia 28/01/2014 a las 12:27:29 p.m.            admin            Tlanchinol            28/01/2014            
+Inicio de sesi?n.            El usuario admin inicio sesion corectamente.            admin            Tlanchinol            28/01/2014            
+Salida del programa.            El usuario admin dej? de usar el sistema el dia 28/01/2014 a las 12:28:24 p.m.            admin            Tlanchinol            28/01/2014            
+Inicio de sesi?n.            El usuario admin inicio sesion corectamente.            admin            Tlanchinol            28/01/2014            
+Salida del programa.            El usuario admin dej? de usar el sistema el dia 28/01/2014 a las 12:29:13 p.m.            admin            Tlanchinol            28/01/2014            
+Inicio de sesi?n.            El usuario admin inicio sesion corectamente.            admin            Tlanchinol            28/01/2014            
+Salida del programa.            El usuario admin dej? de usar el sistema el dia 28/01/2014 a las 12:30:29 p.m.            admin            Tlanchinol            28/01/2014            
+Inicio de sesi?n.            El usuario admin inicio sesion corectamente.            admin            Tlanchinol            28/01/2014            
+Salida del programa.            El usuario admin dej? de usar el sistema el dia 28/01/2014 a las 12:32:49 p.m.            admin            Tlanchinol            28/01/2014            
+Inicio de sesi?n.            El usuario admin inicio sesion corectamente.            admin            Tlanchinol            28/01/2014            
+Salida del programa.            El usuario admin dej? de usar el sistema el dia 28/01/2014 a las 12:36:17 p.m.            admin            Tlanchinol            28/01/2014            
+Inicio de sesi?n.            El usuario admin inicio sesion corectamente.            admin            Tlanchinol            28/01/2014            
+Venta de equipo.            El usuario admin ha vendido un equipo el dia 28/01/2014 a las 12:38:35 p.m.            admin            Tlanchinol            28/01/2014            
+Venta de equipo.            El usuario admin ha vendido un equipo el dia 28/01/2014 a las 12:38:38 p.m.            admin            Tlanchinol            28/01/2014            
+Salida del programa.            El usuario admin dej? de usar el sistema el dia 28/01/2014 a las 12:40:04 p.m.            admin            Tlanchinol            28/01/2014            
+Inicio de sesi?n.            El usuario chapulhuacan inicio sesion corectamente.            chapulhuacan            Chapulhuacan            28/01/2014            
+Venta de equipo.            El usuario chapulhuacan ha vendido un equipo el dia 28/01/2014 a las 12:40:43 p.m.            chapulhuacan            Chapulhuacan            28/01/2014            
+Salida del programa.            El usuario chapulhuacan dej? de usar el sistema el dia 28/01/2014 a las 12:41:17 p.m.            chapulhuacan            Chapulhuacan            28/01/2014            
+Inicio de sesi?n.            El usuario admin inicio sesion corectamente.            admin            Tlanchinol            28/01/2014            
+Salida del programa.            El usuario admin dej? de usar el sistema el dia 28/01/2014 a las 12:47:21 p.m.            admin            Tlanchinol            28/01/2014            
+Inicio de sesi?n.            El usuario admin inicio sesion corectamente.            admin            Tlanchinol            28/01/2014            
+Venta de equipo.            El usuario admin ha vendido un equipo el dia 28/01/2014 a las 12:47:31 p.m.            admin            Tlanchinol            28/01/2014            
+Venta de equipo.            El usuario admin ha vendido un equipo el dia 28/01/2014 a las 12:47:32 p.m.            admin            Tlanchinol            28/01/2014            
+Salida del programa.            El usuario admin dej? de usar el sistema el dia 28/01/2014 a las 12:47:47 p.m.            admin            Tlanchinol            28/01/2014            
+Inicio de sesi?n.            El usuario frank inicio sesion corectamente.            frank            Chapulhuacan            28/01/2014            
+Venta de equipo.            El usuario frank ha vendido un equipo el dia 28/01/2014 a las 12:48:12 p.m.            frank            Chapulhuacan            28/01/2014            
+Inicio de sesi?n.            El usuario admin inicio sesion corectamente.            admin            Tlanchinol            28/01/2014            
+Salida del programa.            El usuario admin dej? de usar el sistema el dia 28/01/2014 a las 12:51:38 p.m.            admin            Tlanchinol            28/01/2014            
+Inicio de sesi?n.            El usuario admin inicio sesion corectamente.            admin            Tlanchinol            28/01/2014            
+Salida del programa.            El usuario admin dej? de usar el sistema el dia 28/01/2014 a las 04:31:31 p. m.            admin            Tlanchinol            28/01/2014            
+Inicio de sesi?n.            El usuario admin inicio sesion corectamente.            admin            Tlanchinol            28/01/2014            
+Salida del programa.            El usuario admin dej? de usar el sistema el dia 28/01/2014 a las 05:51:59 p.m.            admin            Tlanchinol            28/01/2014            
+Inicio de sesi?n.            El usuario admin inicio sesion corectamente.            admin            Tlanchinol            28/01/2014            
+Salida del programa.            El usuario admin dej? de usar el sistema el dia 28/01/2014 a las 06:13:54 p.m.            admin            Tlanchinol            28/01/2014            
+Inicio de sesi?n.            El usuario admin inicio sesion corectamente.            admin            Tlanchinol            28/01/2014            
+Salida del programa.            El usuario admin dej? de usar el sistema el dia 28/01/2014 a las 06:14:47 p.m.            admin            Tlanchinol            28/01/2014            
+Inicio de sesi?n.            El usuario admin inicio sesion corectamente.            admin            Tlanchinol            28/01/2014            
+Salida del programa.            El usuario admin dej? de usar el sistema el dia 28/01/2014 a las 06:24:41 p.m.            admin            Tlanchinol            28/01/2014            
+Inicio de sesi?n.            El usuario admin inicio sesion corectamente.            admin            Tlanchinol            28/01/2014            
+Salida del programa.            El usuario admin dej? de usar el sistema el dia 28/01/2014 a las 06:47:35 p.m.            admin            Tlanchinol            28/01/2014            
+Inicio de sesi?n.            El usuario admin inicio sesion corectamente.            admin            Tlanchinol            28/01/2014            
+Salida del programa.            El usuario admin dej? de usar el sistema el dia 28/01/2014 a las 06:53:06 p.m.            admin            Tlanchinol            28/01/2014            
+Inicio de sesi?n.            El usuario admin inicio sesion corectamente.            admin            Tlanchinol            28/01/2014            
+Salida del programa.            El usuario admin dej? de usar el sistema el dia 28/01/2014 a las 07:01:58 p.m.            admin            Tlanchinol            28/01/2014            
+Inicio de sesi?n.            El usuario frank inicio sesion corectamente.            frank            Chapulhuacan            28/01/2014            
+Salida del programa.            El usuario frank dej? de usar el sistema el dia 28/01/2014 a las 07:21:36 p.m.            frank            Chapulhuacan            28/01/2014            
+Inicio de sesi?n.            El usuario admin inicio sesion corectamente.            admin            Tlanchinol            28/01/2014            
+Salida del programa.            El usuario admin dej? de usar el sistema el dia 28/01/2014 a las 07:48:15 p.m.            admin            Tlanchinol            28/01/2014            
+Inicio de sesi?n.            El usuario admin inicio sesion corectamente.            admin            Tlanchinol            28/01/2014            
+Salida del programa.            El usuario admin dej? de usar el sistema el dia 28/01/2014 a las 07:56:10 p.m.            admin            Tlanchinol            28/01/2014            
+Inicio de sesi?n.            El usuario admin inicio sesion corectamente.            admin            Tlanchinol            29/01/2014            
+Salida del programa.            El usuario admin dej? de usar el sistema el dia 29/01/2014 a las 11:38:49 a.m.            admin            Tlanchinol            29/01/2014            
+Inicio de sesi?n.            El usuario admin inicio sesion corectamente.            admin            Tlanchinol            29/01/2014            
+Salida del programa.            El usuario admin dej? de usar el sistema el dia 29/01/2014 a las 11:42:46 a.m.            admin            Tlanchinol            29/01/2014            
+Inicio de sesi?n.            El usuario admin inicio sesion corectamente.            admin            Tlanchinol            29/01/2014            
+Salida del programa.            El usuario admin dej? de usar el sistema el dia 29/01/2014 a las 11:45:44 a.m.            admin            Tlanchinol            29/01/2014            
+Inicio de sesi?n.            El usuario admin inicio sesion corectamente.            admin            Tlanchinol            29/01/2014            
+Salida del programa.            El usuario admin dej? de usar el sistema el dia 29/01/2014 a las 11:47:11 a.m.            admin            Tlanchinol            29/01/2014            
+Inicio de sesi?n.            El usuario admin inicio sesion corectamente.            admin            Tlanchinol            29/01/2014            
+Salida del programa.            El usuario admin dej? de usar el sistema el dia 29/01/2014 a las 11:47:59 a.m.            admin            Tlanchinol            29/01/2014            
+Inicio de sesi?n.            El usuario admin inicio sesion corectamente.            admin            Tlanchinol            29/01/2014            
+Salida del programa.            El usuario admin dej? de usar el sistema el dia 29/01/2014 a las 11:48:29 a.m.            admin            Tlanchinol            29/01/2014            
+Inicio de sesi?n.            El usuario admin inicio sesion corectamente.            admin            Tlanchinol            29/01/2014            
+Salida del programa.            El usuario admin dej? de usar el sistema el dia 29/01/2014 a las 11:52:13 a.m.            admin            Tlanchinol            29/01/2014            
+Inicio de sesi?n.            El usuario admin inicio sesion corectamente.            admin            Tlanchinol            29/01/2014            
+Salida del programa.            El usuario admin dej? de usar el sistema el dia 29/01/2014 a las 01:33:34 p.m.            admin            Tlanchinol            29/01/2014            
+Inicio de sesi?n.            El usuario admin inicio sesion corectamente.            admin            Tlanchinol            29/01/2014            
+Salida del programa.            El usuario admin dej? de usar el sistema el dia 29/01/2014 a las 02:08:26 p.m.            admin            Tlanchinol            29/01/2014            
+Inicio de sesi?n.            El usuario admin inicio sesion corectamente.            admin            Tlanchinol            30/01/2014            
+Salida del programa.            El usuario admin dej? de usar el sistema el dia 30/01/2014 a las 10:48:16 a.m.            admin            Tlanchinol            30/01/2014            
+Inicio de sesi?n.            El usuario admin inicio sesion corectamente.            admin            Tlanchinol            30/01/2014            
+Salida del programa.            El usuario admin dej? de usar el sistema el dia 30/01/2014 a las 11:00:08 a.m.            admin            Tlanchinol            30/01/2014            
+Inicio de sesi?n.            El usuario admin inicio sesion corectamente.            admin            Tlanchinol            30/01/2014            
+Salida del programa.            El usuario admin dej? de usar el sistema el dia 30/01/2014 a las 11:03:28 a.m.            admin            Tlanchinol            30/01/2014            
+Inicio de sesi?n.            El usuario admin inicio sesion corectamente.            admin            Tlanchinol            30/01/2014            
+Intento de login fallido.            El usuario: pisaflores, ingreso datos incorrectos.            pisaflores                        30/01/2014            
+Inicio de sesi?n.            El usuario pisa inicio sesion corectamente.            pisa            Pisaflores            30/01/2014            
+Inicio de sesi?n.            El usuario frank inicio sesion corectamente.            frank            Chapulhuacan            30/01/2014            
+Inicio de sesi?n.            El usuario admin inicio sesion corectamente.            admin            Tlanchinol            30/01/2014            
+Salida del programa.            El usuario admin dej? de usar el sistema el dia 30/01/2014 a las 10:06:54 p. m.            admin            Tlanchinol            30/01/2014            
+Inicio de sesi?n.            El usuario admin inicio sesion corectamente.            admin            Tlanchinol            30/01/2014            
+Salida del programa.            El usuario admin dej? de usar el sistema el dia 30/01/2014 a las 10:07:00 p. m.            admin            Tlanchinol            30/01/2014            
+Inicio de sesi?n.            El usuario frank inicio sesion corectamente.            frank            Chapulhuacan            30/01/2014            
+Inicio de sesi?n.            El usuario frank inicio sesion corectamente.            frank            Chapulhuacan            30/01/2014            
+Inicio de sesi?n.            El usuario frank inicio sesion corectamente.            frank            Chapulhuacan            30/01/2014            
+Inicio de sesi?n.            El usuario frank inicio sesion corectamente.            frank            Chapulhuacan            30/01/2014            
+Salida del programa.            El usuario frank dej? de usar el sistema el dia 30/01/2014 a las 10:36:38 p. m.            frank            Chapulhuacan            30/01/2014            
+Inicio de sesi?n.            El usuario frank inicio sesion corectamente.            frank            Chapulhuacan            30/01/2014            
+Salida del programa.            El usuario frank dej? de usar el sistema el dia 30/01/2014 a las 10:56:45 p. m.            frank            Chapulhuacan            30/01/2014            
+Inicio de sesi?n.            El usuario frank inicio sesion corectamente.            frank            Chapulhuacan            30/01/2014            
+Salida del programa.            El usuario frank dej? de usar el sistema el dia 30/01/2014 a las 11:00:09 p. m.            frank            Chapulhuacan            30/01/2014            
+Inicio de sesi?n.            El usuario frank inicio sesion corectamente.            frank            Chapulhuacan            30/01/2014            
+Salida del programa.            El usuario frank dej? de usar el sistema el dia 30/01/2014 a las 11:41:21 p. m.            frank            Chapulhuacan            30/01/2014            
+Inicio de sesi?n.            El usuario frank inicio sesion corectamente.            frank            Chapulhuacan            31/01/2014            
+Inicio de sesi?n.            El usuario frank inicio sesion corectamente.            frank            Chapulhuacan            31/01/2014            
+Salida del programa.            El usuario frank dej? de usar el sistema el dia 31/01/2014 a las 12:09:27 a.m.            frank            Chapulhuacan            31/01/2014            
+Inicio de sesi?n.            El usuario admin inicio sesion corectamente.            admin            Tlanchinol            31/01/2014            
+Salida del programa.            El usuario admin dej? de usar el sistema el dia 31/01/2014 a las 12:59:19 a.m.            admin            Tlanchinol            31/01/2014            
+Inicio de sesi?n.            El usuario frank inicio sesion corectamente.            frank            Chapulhuacan            31/01/2014            
+Venta de equipo.            El usuario frank ha vendido un equipo el dia 31/01/2014 a las 11:39:34 a.m.            frank            Chapulhuacan            31/01/2014            
+Salida del programa.            El usuario frank dej? de usar el sistema el dia 31/01/2014 a las 11:41:11 a.m.            frank            Chapulhuacan            31/01/2014            
+Inicio de sesi?n.            El usuario frank inicio sesion corectamente.            frank            Chapulhuacan            31/01/2014            
+Salida del programa.            El usuario frank dej? de usar el sistema el dia 31/01/2014 a las 12:01:34 p.m.            frank            Chapulhuacan            31/01/2014            
+Intento de login fallido.            El usuario: frank, ingreso datos incorrectos.            frank                        31/01/2014            
+Inicio de sesi?n.            El usuario frank inicio sesion corectamente.            frank            Chapulhuacan            31/01/2014            
+Inicio de sesi?n.            El usuario admin inicio sesion corectamente.            admin            Tlanchinol            31/01/2014            
+Salida del programa.            El usuario admin dej? de usar el sistema el dia 31/01/2014 a las 12:12:08 p.m.            admin            Tlanchinol            31/01/2014            
+Inicio de sesi?n.            El usuario frank inicio sesion corectamente.            frank            Chapulhuacan            31/01/2014            
+Salida del programa.            El usuario frank dej? de usar el sistema el dia 31/01/2014 a las 12:22:21 p.m.            frank            Chapulhuacan            31/01/2014            
+Inicio de sesi?n.            El usuario frank inicio sesion corectamente.            frank            Chapulhuacan            31/01/2014            
+Inicio de sesi?n.            El usuario admin inicio sesion corectamente.            admin            Tlanchinol            31/01/2014            
+Salida del programa.            El usuario admin dej? de usar el sistema el dia 31/01/2014 a las 12:31:42 p.m.            admin            Tlanchinol            31/01/2014            
+Inicio de sesi?n.            El usuario admin inicio sesion corectamente.            admin            Tlanchinol            31/01/2014            
+Salida del programa.            El usuario admin dej? de usar el sistema el dia 31/01/2014 a las 12:40:41 p.m.            admin            Tlanchinol            31/01/2014            
+Inicio de sesi?n.            El usuario admin inicio sesion corectamente.            admin            Tlanchinol            31/01/2014            
+Salida del programa.            El usuario admin dej? de usar el sistema el dia 31/01/2014 a las 12:43:52 p.m.            admin            Tlanchinol            31/01/2014            
+Inicio de sesi?n.            El usuario admin inicio sesion corectamente.            admin            Tlanchinol            31/01/2014            
+Salida del programa.            El usuario admin dej? de usar el sistema el dia 31/01/2014 a las 12:46:02 p.m.            admin            Tlanchinol            31/01/2014            
+Inicio de sesi?n.            El usuario admin inicio sesion corectamente.            admin            Tlanchinol            31/01/2014            
+Salida del programa.            El usuario admin dej? de usar el sistema el dia 31/01/2014 a las 12:47:22 p.m.            admin            Tlanchinol            31/01/2014            
+Inicio de sesi?n.            El usuario admin inicio sesion corectamente.            admin            Tlanchinol            31/01/2014            
+Salida del programa.            El usuario admin dej? de usar el sistema el dia 31/01/2014 a las 12:48:19 p.m.            admin            Tlanchinol            31/01/2014            
+Inicio de sesi?n.            El usuario frank inicio sesion corectamente.            frank            Chapulhuacan            31/01/2014            
+Salida del programa.            El usuario frank dej? de usar el sistema el dia 31/01/2014 a las 12:49:59 p.m.            frank            Chapulhuacan            31/01/2014            
+Inicio de sesi?n.            El usuario frank inicio sesion corectamente.            frank            Chapulhuacan            31/01/2014            
+Inicio de sesi?n.            El usuario admin inicio sesion corectamente.            admin            Tlanchinol            31/01/2014            
+Salida del programa.            El usuario admin dej? de usar el sistema el dia 31/01/2014 a las 02:11:51 p.m.            admin            Tlanchinol            31/01/2014            
+Inicio de sesi?n.            El usuario admin inicio sesion corectamente.            admin            Tlanchinol            31/01/2014            
+Salida del programa.            El usuario admin dej? de usar el sistema el dia 31/01/2014 a las 03:52:00 p.m.            admin            Tlanchinol            31/01/2014            
+Inicio de sesi?n.            El usuario admin inicio sesion corectamente.            admin            Tlanchinol            31/01/2014            
+Salida del programa.            El usuario admin dej? de usar el sistema el dia 31/01/2014 a las 04:14:11 p.m.            admin            Tlanchinol            31/01/2014            
+Inicio de sesi?n.            El usuario admin inicio sesion corectamente.            admin            Tlanchinol            31/01/2014            
+Salida del programa.            El usuario admin dej? de usar el sistema el dia 31/01/2014 a las 04:23:24 p.m.            admin            Tlanchinol            31/01/2014            
+Inicio de sesi?n.            El usuario admin inicio sesion corectamente.            admin            Tlanchinol            31/01/2014            
+Salida del programa.            El usuario admin dej? de usar el sistema el dia 31/01/2014 a las 04:25:17 p.m.            admin            Tlanchinol            31/01/2014            
+Inicio de sesi?n.            El usuario frank inicio sesion corectamente.            frank            Chapulhuacan            31/01/2014            
+Salida del programa.            El usuario frank dej? de usar el sistema el dia 31/01/2014 a las 04:29:03 p.m.            frank            Chapulhuacan            31/01/2014            
+Inicio de sesi?n.            El usuario admin inicio sesion corectamente.            admin            Tlanchinol            31/01/2014            
+Inicio de sesi?n.            El usuario admin inicio sesion corectamente.            admin            Tlanchinol            31/01/2014            
+Salida del programa.            El usuario admin dej? de usar el sistema el dia 31/01/2014 a las 06:01:13 p.m.            admin            Tlanchinol            31/01/2014            
+Inicio de sesi?n.            El usuario admin inicio sesion corectamente.            admin            Tlanchinol            31/01/2014            
+Salida del programa.            El usuario admin dej? de usar el sistema el dia 31/01/2014 a las 06:02:47 p.m.            admin            Tlanchinol            31/01/2014            
+Inicio de sesi?n.            El usuario admin inicio sesion corectamente.            admin            Tlanchinol            31/01/2014            
+Salida del programa.            El usuario admin dej? de usar el sistema el dia 31/01/2014 a las 06:05:15 p.m.            admin            Tlanchinol            31/01/2014            
+Inicio de sesi?n.            El usuario admin inicio sesion corectamente.            admin            Tlanchinol            31/01/2014            
+Salida del programa.            El usuario admin dej? de usar el sistema el dia 31/01/2014 a las 06:24:35 p.m.            admin            Tlanchinol            31/01/2014            
+Inicio de sesi?n.            El usuario admin inicio sesion corectamente.            admin            Tlanchinol            31/01/2014            
+Salida del programa.            El usuario admin dej? de usar el sistema el dia 31/01/2014 a las 07:21:15 p.m.            admin            Tlanchinol            31/01/2014            
+Inicio de sesi?n.            El usuario admin inicio sesion corectamente.            admin            Tlanchinol            31/01/2014            
+Salida del programa.            El usuario admin dej? de usar el sistema el dia 31/01/2014 a las 07:31:34 p.m.            admin            Tlanchinol            31/01/2014            
+Inicio de sesi?n.            El usuario admin inicio sesion corectamente.            admin            Tlanchinol            31/01/2014            
+Salida del programa.            El usuario admin dej? de usar el sistema el dia 31/01/2014 a las 11:22:05 p.m.            admin            Tlanchinol            31/01/2014            
+Inicio de sesi?n.            El usuario admin inicio sesion corectamente.            admin            Tlanchinol            31/01/2014            
